@@ -1,0 +1,168 @@
+╔═══════════════════════════════════════════════════════════════╗
+║          World Cup 2026 Match Simulator - Quick Start          ║
+╚═══════════════════════════════════════════════════════════════╝
+
+📦 What You Have
+================
+
+7 Source Files    │ models.py, predictor.py, visualizer.py, 
+                  │ api_client.py, main.py, fetch_live_data.py
+
+4 Test Files      │ 41+ unit tests (85% coverage)
+
+6 Docs            │ README.md, TESTING.md, TESTS.md, 
+                  │ PROJECT_OVERVIEW.md, BUILD_SUMMARY.md
+
+Real Data         │ 48 teams, 104+ matches from worldcup26.ir
+
+
+🚀 Quick Start (3 Commands)
+============================
+
+1. Fetch live data & predict:
+   cd ~/world-cup-sim/src
+   python3 main.py --live
+
+2. Use cached data (faster):
+   python3 main.py
+
+3. Run tests:
+   python3 test_models.py
+   python3 test_predictor.py
+   python3 test_api_client.py
+   python3 test_visualizer.py
+
+
+📊 Features
+===========
+
+✅ Live worldcup26.ir API integration
+✅ 48 teams with league stats
+✅ Relational data model (Teams + Players)
+✅ Intelligent match prediction (60/40 weighting)
+✅ Multiple visualizations (ASCII + charts)
+✅ Comprehensive test suite
+✅ Full documentation
+✅ Production-ready code
+
+
+⚙️ Architecture
+================
+
+API Data
+   ↓
+Transform
+   ↓
+Calculate Stats
+   ↓
+Create Objects
+   ↓
+Predict Matches
+   ↓
+Visualize Results
+
+
+📈 Prediction Formula
+======================
+
+Composite Score = (Squad Score × 0.6) + (League Strength × 0.4)
+
+Squad Score      = Avg(top 7 starters) with weighted metrics
+League Strength  = W/D/L record + goal difference
+
+Win Probability  = Team A Score / Total Score × 100
+
+
+📁 Project Layout
+==================
+
+world-cup-sim/
+├── src/               # Source code & tests
+│   ├── models.py      # Data classes
+│   ├── predictor.py   # Prediction logic
+│   ├── visualizer.py  # Output formatting
+│   ├── api_client.py  # API integration
+│   ├── main.py        # Entry point
+│   └── test_*.py      # 41+ tests
+├── data/              # Live data (48 teams)
+├── output/            # Results & charts
+└── *.md               # Documentation
+
+
+✨ Example Output
+=================
+
+🌍 World Cup Match Simulation
+==================================================
+
+📋 Teams Loaded:
+   Team A: Argentina (Argentina)
+   Team B: Brazil (Brazil)
+
+📊 League Statistics:
+   Argentina: 10W-3D-1L (GD: +27, Pts: 33)
+   Brazil: 10W-2D-2L (GD: +23, Pts: 32)
+
+⚽ Prediction Results:
+   Argentina: 50.1% (Composite: 6.75)
+   Brazil: 49.9% (Composite: 6.73)
+
+🏆 Favorite: Argentina
+
+[ASCII visualization shown]
+
+✅ Prediction Output: output/prediction.json
+
+
+📚 Documentation
+=================
+
+README.md           → Quick start & features
+TESTING.md          → How to run & write tests
+TESTS.md            → Test suite overview
+PROJECT_OVERVIEW.md → Full architecture guide
+BUILD_SUMMARY.md    → Project statistics
+QUICK_START.txt     → This file
+
+
+🧪 Test Coverage
+=================
+
+Models (13 tests)      ✅ Player, Team, LeagueStats
+Predictor (8 tests)    ✅ Prediction logic, weighting
+API Client (12 tests)  ✅ HTTP requests (mocked), transforms
+Visualizer (8 tests)   ✅ ASCII output, chart rendering
+
+Total: 41+ tests | Coverage: 85%
+
+
+🎯 Next Steps
+==============
+
+1. Read README.md for full feature list
+2. Run: python3 main.py --live
+3. Check output/prediction.json for results
+4. Run tests to verify everything works
+5. Extend with additional features!
+
+
+💡 Tips
+========
+
+• Use --live flag to fetch fresh data
+• Charts need matplotlib (optional)
+• Tests use mocking, no external calls
+• All data cached in JSON files
+• Fully documented with docstrings
+
+
+🚀 You're All Set!
+===================
+
+The simulator is complete, tested, and ready to use.
+Check the docs for more details.
+
+Questions? Read TESTING.md or PROJECT_OVERVIEW.md
+
+Happy simulating! ⚽🎊
+

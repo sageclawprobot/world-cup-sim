@@ -1,0 +1,1348 @@
+{
+  "teams": [
+    {
+      "id": "team_2",
+      "name": "South Africa",
+      "country": "South Africa",
+      "starting_lineup": [
+        "player_1",
+        "player_2",
+        "player_3",
+        "player_4",
+        "player_5",
+        "player_6",
+        "player_7",
+        "player_8",
+        "player_9",
+        "player_10",
+        "player_11"
+      ],
+      "league_stats": {
+        "matches_played": 4,
+        "wins": 1,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 2,
+        "goals_against": 4,
+        "goal_difference": -2,
+        "points": 4
+      }
+    },
+    {
+      "id": "team_9",
+      "name": "Brazil",
+      "country": "Brazil",
+      "starting_lineup": [
+        "player_12",
+        "player_13",
+        "player_14",
+        "player_15",
+        "player_16",
+        "player_17",
+        "player_18",
+        "player_19",
+        "player_20",
+        "player_21",
+        "player_22"
+      ],
+      "league_stats": {
+        "matches_played": 4,
+        "wins": 3,
+        "draws": 1,
+        "losses": 0,
+        "goals_for": 9,
+        "goals_against": 2,
+        "goal_difference": 7,
+        "points": 10
+      }
+    },
+    {
+      "id": "team_12",
+      "name": "Scotland",
+      "country": "Scotland",
+      "starting_lineup": [
+        "player_23",
+        "player_24",
+        "player_25",
+        "player_26",
+        "player_27",
+        "player_28",
+        "player_29",
+        "player_30",
+        "player_31",
+        "player_32",
+        "player_33"
+      ],
+      "league_stats": {
+        "matches_played": 3,
+        "wins": 1,
+        "draws": 0,
+        "losses": 2,
+        "goals_for": 1,
+        "goals_against": 4,
+        "goal_difference": -3,
+        "points": 3
+      }
+    },
+    {
+      "id": "team_16",
+      "name": "Turkey",
+      "country": "Turkey",
+      "starting_lineup": [
+        "player_34",
+        "player_35",
+        "player_36",
+        "player_37",
+        "player_38",
+        "player_39",
+        "player_40",
+        "player_41",
+        "player_42",
+        "player_43",
+        "player_44"
+      ],
+      "league_stats": {
+        "matches_played": 3,
+        "wins": 1,
+        "draws": 0,
+        "losses": 2,
+        "goals_for": 3,
+        "goals_against": 5,
+        "goal_difference": -2,
+        "points": 3
+      }
+    },
+    {
+      "id": "team_19",
+      "name": "Ivory Coast",
+      "country": "Ivory Coast",
+      "starting_lineup": [
+        "player_45",
+        "player_46",
+        "player_47",
+        "player_48",
+        "player_49",
+        "player_50",
+        "player_51",
+        "player_52",
+        "player_53",
+        "player_54",
+        "player_55"
+      ],
+      "league_stats": {
+        "matches_played": 4,
+        "wins": 2,
+        "draws": 0,
+        "losses": 2,
+        "goals_for": 5,
+        "goals_against": 4,
+        "goal_difference": 1,
+        "points": 6
+      }
+    },
+    {
+      "id": "team_21",
+      "name": "Netherlands",
+      "country": "Netherlands",
+      "starting_lineup": [
+        "player_56",
+        "player_57",
+        "player_58",
+        "player_59",
+        "player_60",
+        "player_61",
+        "player_62",
+        "player_63",
+        "player_64",
+        "player_65",
+        "player_66"
+      ],
+      "league_stats": {
+        "matches_played": 4,
+        "wins": 2,
+        "draws": 2,
+        "losses": 0,
+        "goals_for": 11,
+        "goals_against": 5,
+        "goal_difference": 6,
+        "points": 8
+      }
+    },
+    {
+      "id": "team_30",
+      "name": "Cape Verde",
+      "country": "Cape Verde",
+      "starting_lineup": [
+        "player_67",
+        "player_68",
+        "player_69",
+        "player_70",
+        "player_71",
+        "player_72",
+        "player_73",
+        "player_74",
+        "player_75",
+        "player_76",
+        "player_77"
+      ],
+      "league_stats": {
+        "matches_played": 3,
+        "wins": 0,
+        "draws": 3,
+        "losses": 0,
+        "goals_for": 2,
+        "goals_against": 2,
+        "goal_difference": 0,
+        "points": 3
+      }
+    },
+    {
+      "id": "team_33",
+      "name": "France",
+      "country": "France",
+      "starting_lineup": [
+        "player_78",
+        "player_79",
+        "player_80",
+        "player_81",
+        "player_82",
+        "player_83",
+        "player_84",
+        "player_85",
+        "player_86",
+        "player_87",
+        "player_88"
+      ],
+      "league_stats": {
+        "matches_played": 4,
+        "wins": 4,
+        "draws": 0,
+        "losses": 0,
+        "goals_for": 13,
+        "goals_against": 2,
+        "goal_difference": 11,
+        "points": 12
+      }
+    },
+    {
+      "id": "team_24",
+      "name": "Tunisia",
+      "country": "Tunisia",
+      "starting_lineup": [
+        "player_89",
+        "player_90",
+        "player_91",
+        "player_92",
+        "player_93",
+        "player_94",
+        "player_95",
+        "player_96",
+        "player_97",
+        "player_98",
+        "player_99"
+      ],
+      "league_stats": {
+        "matches_played": 3,
+        "wins": 0,
+        "draws": 0,
+        "losses": 3,
+        "goals_for": 2,
+        "goals_against": 12,
+        "goal_difference": -10,
+        "points": 0
+      }
+    },
+    {
+      "id": "team_26",
+      "name": "Egypt",
+      "country": "Egypt",
+      "starting_lineup": [
+        "player_100",
+        "player_101",
+        "player_102",
+        "player_103",
+        "player_104",
+        "player_105",
+        "player_106",
+        "player_107",
+        "player_108",
+        "player_109",
+        "player_110"
+      ],
+      "league_stats": {
+        "matches_played": 4,
+        "wins": 1,
+        "draws": 3,
+        "losses": 0,
+        "goals_for": 6,
+        "goals_against": 4,
+        "goal_difference": 2,
+        "points": 6
+      }
+    },
+    {
+      "id": "team_35",
+      "name": "Iraq",
+      "country": "Iraq",
+      "starting_lineup": [
+        "player_111",
+        "player_112",
+        "player_113",
+        "player_114",
+        "player_115",
+        "player_116",
+        "player_117",
+        "player_118",
+        "player_119",
+        "player_120",
+        "player_121"
+      ],
+      "league_stats": {
+        "matches_played": 3,
+        "wins": 0,
+        "draws": 0,
+        "losses": 3,
+        "goals_for": 1,
+        "goals_against": 12,
+        "goal_difference": -11,
+        "points": 0
+      }
+    },
+    {
+      "id": "team_41",
+      "name": "Portugal",
+      "country": "Portugal",
+      "starting_lineup": [
+        "player_122",
+        "player_123",
+        "player_124",
+        "player_125",
+        "player_126",
+        "player_127",
+        "player_128",
+        "player_129",
+        "player_130",
+        "player_131",
+        "player_132"
+      ],
+      "league_stats": {
+        "matches_played": 4,
+        "wins": 2,
+        "draws": 2,
+        "losses": 0,
+        "goals_for": 8,
+        "goals_against": 2,
+        "goal_difference": 6,
+        "points": 8
+      }
+    },
+    {
+      "id": "team_43",
+      "name": "Uzbekistan",
+      "country": "Uzbekistan",
+      "starting_lineup": [
+        "player_133",
+        "player_134",
+        "player_135",
+        "player_136",
+        "player_137",
+        "player_138",
+        "player_139",
+        "player_140",
+        "player_141",
+        "player_142",
+        "player_143"
+      ],
+      "league_stats": {
+        "matches_played": 3,
+        "wins": 0,
+        "draws": 0,
+        "losses": 3,
+        "goals_for": 2,
+        "goals_against": 11,
+        "goal_difference": -9,
+        "points": 0
+      }
+    },
+    {
+      "id": "team_44",
+      "name": "Colombia",
+      "country": "Colombia",
+      "starting_lineup": [
+        "player_144",
+        "player_145",
+        "player_146",
+        "player_147",
+        "player_148",
+        "player_149",
+        "player_150",
+        "player_151",
+        "player_152",
+        "player_153",
+        "player_154"
+      ],
+      "league_stats": {
+        "matches_played": 3,
+        "wins": 2,
+        "draws": 1,
+        "losses": 0,
+        "goals_for": 4,
+        "goals_against": 1,
+        "goal_difference": 3,
+        "points": 7
+      }
+    },
+    {
+      "id": "team_20",
+      "name": "Ecuador",
+      "country": "Ecuador",
+      "starting_lineup": [
+        "player_155",
+        "player_156",
+        "player_157",
+        "player_158",
+        "player_159",
+        "player_160",
+        "player_161",
+        "player_162",
+        "player_163",
+        "player_164",
+        "player_165"
+      ],
+      "league_stats": {
+        "matches_played": 4,
+        "wins": 1,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 2,
+        "goals_against": 4,
+        "goal_difference": -2,
+        "points": 4
+      }
+    },
+    {
+      "id": "team_22",
+      "name": "Japan",
+      "country": "Japan",
+      "starting_lineup": [
+        "player_166",
+        "player_167",
+        "player_168",
+        "player_169",
+        "player_170",
+        "player_171",
+        "player_172",
+        "player_173",
+        "player_174",
+        "player_175",
+        "player_176"
+      ],
+      "league_stats": {
+        "matches_played": 4,
+        "wins": 1,
+        "draws": 2,
+        "losses": 1,
+        "goals_for": 8,
+        "goals_against": 5,
+        "goal_difference": 3,
+        "points": 5
+      }
+    },
+    {
+      "id": "team_28",
+      "name": "New Zealand",
+      "country": "New Zealand",
+      "starting_lineup": [
+        "player_177",
+        "player_178",
+        "player_179",
+        "player_180",
+        "player_181",
+        "player_182",
+        "player_183",
+        "player_184",
+        "player_185",
+        "player_186",
+        "player_187"
+      ],
+      "league_stats": {
+        "matches_played": 3,
+        "wins": 0,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 4,
+        "goals_against": 10,
+        "goal_difference": -6,
+        "points": 1
+      }
+    },
+    {
+      "id": "team_31",
+      "name": "Saudi Arabia",
+      "country": "Saudi Arabia",
+      "starting_lineup": [
+        "player_188",
+        "player_189",
+        "player_190",
+        "player_191",
+        "player_192",
+        "player_193",
+        "player_194",
+        "player_195",
+        "player_196",
+        "player_197",
+        "player_198"
+      ],
+      "league_stats": {
+        "matches_played": 3,
+        "wins": 0,
+        "draws": 2,
+        "losses": 1,
+        "goals_for": 1,
+        "goals_against": 5,
+        "goal_difference": -4,
+        "points": 2
+      }
+    },
+    {
+      "id": "team_39",
+      "name": "Austria",
+      "country": "Austria",
+      "starting_lineup": [
+        "player_199",
+        "player_200",
+        "player_201",
+        "player_202",
+        "player_203",
+        "player_204",
+        "player_205",
+        "player_206",
+        "player_207",
+        "player_208",
+        "player_209"
+      ],
+      "league_stats": {
+        "matches_played": 4,
+        "wins": 1,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 6,
+        "goals_against": 9,
+        "goal_difference": -3,
+        "points": 4
+      }
+    },
+    {
+      "id": "team_47",
+      "name": "Ghana",
+      "country": "Ghana",
+      "starting_lineup": [
+        "player_210",
+        "player_211",
+        "player_212",
+        "player_213",
+        "player_214",
+        "player_215",
+        "player_216",
+        "player_217",
+        "player_218",
+        "player_219",
+        "player_220"
+      ],
+      "league_stats": {
+        "matches_played": 3,
+        "wins": 1,
+        "draws": 1,
+        "losses": 1,
+        "goals_for": 2,
+        "goals_against": 2,
+        "goal_difference": 0,
+        "points": 4
+      }
+    },
+    {
+      "id": "team_3",
+      "name": "South Korea",
+      "country": "South Korea",
+      "starting_lineup": [
+        "player_221",
+        "player_222",
+        "player_223",
+        "player_224",
+        "player_225",
+        "player_226",
+        "player_227",
+        "player_228",
+        "player_229",
+        "player_230",
+        "player_231"
+      ],
+      "league_stats": {
+        "matches_played": 3,
+        "wins": 1,
+        "draws": 0,
+        "losses": 2,
+        "goals_for": 2,
+        "goals_against": 3,
+        "goal_difference": -1,
+        "points": 3
+      }
+    },
+    {
+      "id": "team_29",
+      "name": "Spain",
+      "country": "Spain",
+      "starting_lineup": [
+        "player_232",
+        "player_233",
+        "player_234",
+        "player_235",
+        "player_236",
+        "player_237",
+        "player_238",
+        "player_239",
+        "player_240",
+        "player_241",
+        "player_242"
+      ],
+      "league_stats": {
+        "matches_played": 4,
+        "wins": 3,
+        "draws": 1,
+        "losses": 0,
+        "goals_for": 8,
+        "goals_against": 0,
+        "goal_difference": 8,
+        "points": 10
+      }
+    },
+    {
+      "id": "team_36",
+      "name": "Norway",
+      "country": "Norway",
+      "starting_lineup": [
+        "player_243",
+        "player_244",
+        "player_245",
+        "player_246",
+        "player_247",
+        "player_248",
+        "player_249",
+        "player_250",
+        "player_251",
+        "player_252",
+        "player_253"
+      ],
+      "league_stats": {
+        "matches_played": 4,
+        "wins": 3,
+        "draws": 0,
+        "losses": 1,
+        "goals_for": 10,
+        "goals_against": 8,
+        "goal_difference": 2,
+        "points": 9
+      }
+    },
+    {
+      "id": "team_37",
+      "name": "Argentina",
+      "country": "Argentina",
+      "starting_lineup": [
+        "player_254",
+        "player_255",
+        "player_256",
+        "player_257",
+        "player_258",
+        "player_259",
+        "player_260",
+        "player_261",
+        "player_262",
+        "player_263",
+        "player_264"
+      ],
+      "league_stats": {
+        "matches_played": 3,
+        "wins": 3,
+        "draws": 0,
+        "losses": 0,
+        "goals_for": 8,
+        "goals_against": 1,
+        "goal_difference": 7,
+        "points": 9
+      }
+    },
+    {
+      "id": "team_42",
+      "name": "Democratic Republic of the Congo",
+      "country": "Democratic Republic of the Congo",
+      "starting_lineup": [
+        "player_265",
+        "player_266",
+        "player_267",
+        "player_268",
+        "player_269",
+        "player_270",
+        "player_271",
+        "player_272",
+        "player_273",
+        "player_274",
+        "player_275"
+      ],
+      "league_stats": {
+        "matches_played": 4,
+        "wins": 1,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 5,
+        "goals_against": 5,
+        "goal_difference": 0,
+        "points": 4
+      }
+    },
+    {
+      "id": "team_45",
+      "name": "England",
+      "country": "England",
+      "starting_lineup": [
+        "player_276",
+        "player_277",
+        "player_278",
+        "player_279",
+        "player_280",
+        "player_281",
+        "player_282",
+        "player_283",
+        "player_284",
+        "player_285",
+        "player_286"
+      ],
+      "league_stats": {
+        "matches_played": 4,
+        "wins": 3,
+        "draws": 1,
+        "losses": 0,
+        "goals_for": 8,
+        "goals_against": 3,
+        "goal_difference": 5,
+        "points": 10
+      }
+    },
+    {
+      "id": "team_4",
+      "name": "Czech Republic",
+      "country": "Czech Republic",
+      "starting_lineup": [
+        "player_287",
+        "player_288",
+        "player_289",
+        "player_290",
+        "player_291",
+        "player_292",
+        "player_293",
+        "player_294",
+        "player_295",
+        "player_296",
+        "player_297"
+      ],
+      "league_stats": {
+        "matches_played": 3,
+        "wins": 0,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 2,
+        "goals_against": 6,
+        "goal_difference": -4,
+        "points": 1
+      }
+    },
+    {
+      "id": "team_5",
+      "name": "Canada",
+      "country": "Canada",
+      "starting_lineup": [
+        "player_298",
+        "player_299",
+        "player_300",
+        "player_301",
+        "player_302",
+        "player_303",
+        "player_304",
+        "player_305",
+        "player_306",
+        "player_307",
+        "player_308"
+      ],
+      "league_stats": {
+        "matches_played": 4,
+        "wins": 2,
+        "draws": 1,
+        "losses": 1,
+        "goals_for": 9,
+        "goals_against": 3,
+        "goal_difference": 6,
+        "points": 7
+      }
+    },
+    {
+      "id": "team_7",
+      "name": "Qatar",
+      "country": "Qatar",
+      "starting_lineup": [
+        "player_309",
+        "player_310",
+        "player_311",
+        "player_312",
+        "player_313",
+        "player_314",
+        "player_315",
+        "player_316",
+        "player_317",
+        "player_318",
+        "player_319"
+      ],
+      "league_stats": {
+        "matches_played": 3,
+        "wins": 0,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 2,
+        "goals_against": 10,
+        "goal_difference": -8,
+        "points": 1
+      }
+    },
+    {
+      "id": "team_8",
+      "name": "Switzerland",
+      "country": "Switzerland",
+      "starting_lineup": [
+        "player_320",
+        "player_321",
+        "player_322",
+        "player_323",
+        "player_324",
+        "player_325",
+        "player_326",
+        "player_327",
+        "player_328",
+        "player_329",
+        "player_330"
+      ],
+      "league_stats": {
+        "matches_played": 4,
+        "wins": 3,
+        "draws": 1,
+        "losses": 0,
+        "goals_for": 9,
+        "goals_against": 3,
+        "goal_difference": 6,
+        "points": 10
+      }
+    },
+    {
+      "id": "team_10",
+      "name": "Morocco",
+      "country": "Morocco",
+      "starting_lineup": [
+        "player_331",
+        "player_332",
+        "player_333",
+        "player_334",
+        "player_335",
+        "player_336",
+        "player_337",
+        "player_338",
+        "player_339",
+        "player_340",
+        "player_341"
+      ],
+      "league_stats": {
+        "matches_played": 4,
+        "wins": 2,
+        "draws": 2,
+        "losses": 0,
+        "goals_for": 7,
+        "goals_against": 4,
+        "goal_difference": 3,
+        "points": 8
+      }
+    },
+    {
+      "id": "team_14",
+      "name": "Paraguay",
+      "country": "Paraguay",
+      "starting_lineup": [
+        "player_342",
+        "player_343",
+        "player_344",
+        "player_345",
+        "player_346",
+        "player_347",
+        "player_348",
+        "player_349",
+        "player_350",
+        "player_351",
+        "player_352"
+      ],
+      "league_stats": {
+        "matches_played": 4,
+        "wins": 1,
+        "draws": 2,
+        "losses": 1,
+        "goals_for": 3,
+        "goals_against": 5,
+        "goal_difference": -2,
+        "points": 5
+      }
+    },
+    {
+      "id": "team_18",
+      "name": "Cura\u00e7ao",
+      "country": "Cura\u00e7ao",
+      "starting_lineup": [
+        "player_353",
+        "player_354",
+        "player_355",
+        "player_356",
+        "player_357",
+        "player_358",
+        "player_359",
+        "player_360",
+        "player_361",
+        "player_362",
+        "player_363"
+      ],
+      "league_stats": {
+        "matches_played": 3,
+        "wins": 0,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 1,
+        "goals_against": 9,
+        "goal_difference": -8,
+        "points": 1
+      }
+    },
+    {
+      "id": "team_23",
+      "name": "Sweden",
+      "country": "Sweden",
+      "starting_lineup": [
+        "player_364",
+        "player_365",
+        "player_366",
+        "player_367",
+        "player_368",
+        "player_369",
+        "player_370",
+        "player_371",
+        "player_372",
+        "player_373",
+        "player_374"
+      ],
+      "league_stats": {
+        "matches_played": 4,
+        "wins": 1,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 7,
+        "goals_against": 10,
+        "goal_difference": -3,
+        "points": 4
+      }
+    },
+    {
+      "id": "team_38",
+      "name": "Algeria",
+      "country": "Algeria",
+      "starting_lineup": [
+        "player_375",
+        "player_376",
+        "player_377",
+        "player_378",
+        "player_379",
+        "player_380",
+        "player_381",
+        "player_382",
+        "player_383",
+        "player_384",
+        "player_385"
+      ],
+      "league_stats": {
+        "matches_played": 4,
+        "wins": 1,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 5,
+        "goals_against": 9,
+        "goal_difference": -4,
+        "points": 4
+      }
+    },
+    {
+      "id": "team_40",
+      "name": "Jordan",
+      "country": "Jordan",
+      "starting_lineup": [
+        "player_386",
+        "player_387",
+        "player_388",
+        "player_389",
+        "player_390",
+        "player_391",
+        "player_392",
+        "player_393",
+        "player_394",
+        "player_395",
+        "player_396"
+      ],
+      "league_stats": {
+        "matches_played": 3,
+        "wins": 0,
+        "draws": 0,
+        "losses": 3,
+        "goals_for": 3,
+        "goals_against": 8,
+        "goal_difference": -5,
+        "points": 0
+      }
+    },
+    {
+      "id": "team_11",
+      "name": "Haiti",
+      "country": "Haiti",
+      "starting_lineup": [
+        "player_397",
+        "player_398",
+        "player_399",
+        "player_400",
+        "player_401",
+        "player_402",
+        "player_403",
+        "player_404",
+        "player_405",
+        "player_406",
+        "player_407"
+      ],
+      "league_stats": {
+        "matches_played": 3,
+        "wins": 0,
+        "draws": 0,
+        "losses": 3,
+        "goals_for": 2,
+        "goals_against": 8,
+        "goal_difference": -6,
+        "points": 0
+      }
+    },
+    {
+      "id": "team_17",
+      "name": "Germany",
+      "country": "Germany",
+      "starting_lineup": [
+        "player_408",
+        "player_409",
+        "player_410",
+        "player_411",
+        "player_412",
+        "player_413",
+        "player_414",
+        "player_415",
+        "player_416",
+        "player_417",
+        "player_418"
+      ],
+      "league_stats": {
+        "matches_played": 4,
+        "wins": 2,
+        "draws": 1,
+        "losses": 1,
+        "goals_for": 11,
+        "goals_against": 5,
+        "goal_difference": 6,
+        "points": 7
+      }
+    },
+    {
+      "id": "team_32",
+      "name": "Uruguay",
+      "country": "Uruguay",
+      "starting_lineup": [
+        "player_419",
+        "player_420",
+        "player_421",
+        "player_422",
+        "player_423",
+        "player_424",
+        "player_425",
+        "player_426",
+        "player_427",
+        "player_428",
+        "player_429"
+      ],
+      "league_stats": {
+        "matches_played": 3,
+        "wins": 0,
+        "draws": 2,
+        "losses": 1,
+        "goals_for": 3,
+        "goals_against": 4,
+        "goal_difference": -1,
+        "points": 2
+      }
+    },
+    {
+      "id": "team_34",
+      "name": "Senegal",
+      "country": "Senegal",
+      "starting_lineup": [
+        "player_430",
+        "player_431",
+        "player_432",
+        "player_433",
+        "player_434",
+        "player_435",
+        "player_436",
+        "player_437",
+        "player_438",
+        "player_439",
+        "player_440"
+      ],
+      "league_stats": {
+        "matches_played": 4,
+        "wins": 1,
+        "draws": 0,
+        "losses": 3,
+        "goals_for": 10,
+        "goals_against": 9,
+        "goal_difference": 1,
+        "points": 3
+      }
+    },
+    {
+      "id": "team_48",
+      "name": "Panama",
+      "country": "Panama",
+      "starting_lineup": [
+        "player_441",
+        "player_442",
+        "player_443",
+        "player_444",
+        "player_445",
+        "player_446",
+        "player_447",
+        "player_448",
+        "player_449",
+        "player_450",
+        "player_451"
+      ],
+      "league_stats": {
+        "matches_played": 3,
+        "wins": 0,
+        "draws": 0,
+        "losses": 3,
+        "goals_for": 0,
+        "goals_against": 4,
+        "goal_difference": -4,
+        "points": 0
+      }
+    },
+    {
+      "id": "team_1",
+      "name": "Mexico",
+      "country": "Mexico",
+      "starting_lineup": [
+        "player_452",
+        "player_453",
+        "player_454",
+        "player_455",
+        "player_456",
+        "player_457",
+        "player_458",
+        "player_459",
+        "player_460",
+        "player_461",
+        "player_462"
+      ],
+      "league_stats": {
+        "matches_played": 4,
+        "wins": 4,
+        "draws": 0,
+        "losses": 0,
+        "goals_for": 8,
+        "goals_against": 0,
+        "goal_difference": 8,
+        "points": 12
+      }
+    },
+    {
+      "id": "team_6",
+      "name": "Bosnia and Herzegovina",
+      "country": "Bosnia and Herzegovina",
+      "starting_lineup": [
+        "player_463",
+        "player_464",
+        "player_465",
+        "player_466",
+        "player_467",
+        "player_468",
+        "player_469",
+        "player_470",
+        "player_471",
+        "player_472",
+        "player_473"
+      ],
+      "league_stats": {
+        "matches_played": 4,
+        "wins": 1,
+        "draws": 1,
+        "losses": 2,
+        "goals_for": 5,
+        "goals_against": 8,
+        "goal_difference": -3,
+        "points": 4
+      }
+    },
+    {
+      "id": "team_13",
+      "name": "United States",
+      "country": "United States",
+      "starting_lineup": [
+        "player_474",
+        "player_475",
+        "player_476",
+        "player_477",
+        "player_478",
+        "player_479",
+        "player_480",
+        "player_481",
+        "player_482",
+        "player_483",
+        "player_484"
+      ],
+      "league_stats": {
+        "matches_played": 4,
+        "wins": 3,
+        "draws": 0,
+        "losses": 1,
+        "goals_for": 10,
+        "goals_against": 4,
+        "goal_difference": 6,
+        "points": 9
+      }
+    },
+    {
+      "id": "team_15",
+      "name": "Australia",
+      "country": "Australia",
+      "starting_lineup": [
+        "player_485",
+        "player_486",
+        "player_487",
+        "player_488",
+        "player_489",
+        "player_490",
+        "player_491",
+        "player_492",
+        "player_493",
+        "player_494",
+        "player_495"
+      ],
+      "league_stats": {
+        "matches_played": 4,
+        "wins": 1,
+        "draws": 2,
+        "losses": 1,
+        "goals_for": 3,
+        "goals_against": 3,
+        "goal_difference": 0,
+        "points": 5
+      }
+    },
+    {
+      "id": "team_25",
+      "name": "Belgium",
+      "country": "Belgium",
+      "starting_lineup": [
+        "player_496",
+        "player_497",
+        "player_498",
+        "player_499",
+        "player_500",
+        "player_501",
+        "player_502",
+        "player_503",
+        "player_504",
+        "player_505",
+        "player_506"
+      ],
+      "league_stats": {
+        "matches_played": 4,
+        "wins": 2,
+        "draws": 2,
+        "losses": 0,
+        "goals_for": 9,
+        "goals_against": 4,
+        "goal_difference": 5,
+        "points": 8
+      }
+    },
+    {
+      "id": "team_27",
+      "name": "Iran",
+      "country": "Iran",
+      "starting_lineup": [
+        "player_507",
+        "player_508",
+        "player_509",
+        "player_510",
+        "player_511",
+        "player_512",
+        "player_513",
+        "player_514",
+        "player_515",
+        "player_516",
+        "player_517"
+      ],
+      "league_stats": {
+        "matches_played": 3,
+        "wins": 0,
+        "draws": 3,
+        "losses": 0,
+        "goals_for": 3,
+        "goals_against": 3,
+        "goal_difference": 0,
+        "points": 3
+      }
+    },
+    {
+      "id": "team_46",
+      "name": "Croatia",
+      "country": "Croatia",
+      "starting_lineup": [
+        "player_518",
+        "player_519",
+        "player_520",
+        "player_521",
+        "player_522",
+        "player_523",
+        "player_524",
+        "player_525",
+        "player_526",
+        "player_527",
+        "player_528"
+      ],
+      "league_stats": {
+        "matches_played": 4,
+        "wins": 2,
+        "draws": 0,
+        "losses": 2,
+        "goals_for": 6,
+        "goals_against": 7,
+        "goal_difference": -1,
+        "points": 6
+      }
+    }
+  ]
+}

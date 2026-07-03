@@ -1,0 +1,23 @@
+PlayerName,TeamName,Position,Goals,Assists,ShotsOnTarget,ShotsOnGoal,HeadedAttempts,ContributionScore
+France Player 1,France,GK,0,0,0,0,0,0.0
+France Player 2,France,DEF,0,0,0,0,0,0.0
+France Player 3,France,DEF,0,0,0,0,0,0.0
+France Player 4,France,DEF,0,0,0,0,0,0.0
+France Player 5,France,DEF,0,0,0,0,0,0.0
+France Player 6,France,MID,0,0,0,0,0,0.0
+France Player 7,France,MID,0,0,0,0,0,0.0
+France Player 8,France,MID,0,0,0,0,0,0.0
+France Player 9,France,FWD,1,0,3,2,0,0.7
+France Player 10,France,FWD,1,0,3,2,0,0.7
+France Player 11,France,FWD,1,0,3,2,0,0.7
+Germany Player 1,Germany,GK,0,0,0,0,0,0.0
+Germany Player 2,Germany,DEF,0,0,0,0,0,0.0
+Germany Player 3,Germany,DEF,0,0,0,0,0,0.0
+Germany Player 4,Germany,DEF,0,0,0,0,0,0.0
+Germany Player 5,Germany,DEF,0,0,0,0,0,0.0
+Germany Player 6,Germany,MID,0,0,0,0,0,0.0
+Germany Player 7,Germany,MID,0,0,0,0,0,0.0
+Germany Player 8,Germany,MID,0,0,0,0,0,0.0
+Germany Player 9,Germany,FWD,1,0,3,2,0,0.7
+Germany Player 10,Germany,FWD,1,0,3,2,0,0.7
+Germany Player 11,Germany,FWD,1,0,3,2,0,0.7

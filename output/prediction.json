@@ -1,0 +1,19 @@
+{
+  "team_a": {
+    "name": "South Africa",
+    "country": "South Africa",
+    "squad_score": 0.0,
+    "league_strength": 4.25,
+    "composite_score": 1.7,
+    "win_probability": 26.0
+  },
+  "team_b": {
+    "name": "Brazil",
+    "country": "Brazil",
+    "squad_score": 0.0,
+    "league_strength": 12.12,
+    "composite_score": 4.85,
+    "win_probability": 74.0
+  },
+  "favorite": "Brazil"
+}

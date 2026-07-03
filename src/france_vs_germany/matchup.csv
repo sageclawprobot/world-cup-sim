@@ -1,0 +1,23 @@
+TeamName,TeamMatchesPlayed,TeamWins,TeamDraws,TeamLosses,TeamGoalsScored,TeamGoalsAgainst,TeamGoalDifference,PlayerName,PlayerGoals,PlayerAssists,PlayerShotsOnTarget,PlayerShotsOnGoal,PlayerHeadedAttempts
+France,4,4,0,0,13,2,11,France Player 1,0,0,0,0,0
+France,4,4,0,0,13,2,11,France Player 2,0,0,0,0,0
+France,4,4,0,0,13,2,11,France Player 3,0,0,0,0,0
+France,4,4,0,0,13,2,11,France Player 4,0,0,0,0,0
+France,4,4,0,0,13,2,11,France Player 5,0,0,0,0,0
+France,4,4,0,0,13,2,11,France Player 6,0,0,0,0,0
+France,4,4,0,0,13,2,11,France Player 7,0,0,0,0,0
+France,4,4,0,0,13,2,11,France Player 8,0,0,0,0,0
+France,4,4,0,0,13,2,11,France Player 9,1,0,3,2,0
+France,4,4,0,0,13,2,11,France Player 10,1,0,3,2,0
+France,4,4,0,0,13,2,11,France Player 11,1,0,3,2,0
+Germany,4,2,1,1,11,5,6,Germany Player 1,0,0,0,0,0
+Germany,4,2,1,1,11,5,6,Germany Player 2,0,0,0,0,0
+Germany,4,2,1,1,11,5,6,Germany Player 3,0,0,0,0,0
+Germany,4,2,1,1,11,5,6,Germany Player 4,0,0,0,0,0
+Germany,4,2,1,1,11,5,6,Germany Player 5,0,0,0,0,0
+Germany,4,2,1,1,11,5,6,Germany Player 6,0,0,0,0,0
+Germany,4,2,1,1,11,5,6,Germany Player 7,0,0,0,0,0
+Germany,4,2,1,1,11,5,6,Germany Player 8,0,0,0,0,0
+Germany,4,2,1,1,11,5,6,Germany Player 9,1,0,3,2,0
+Germany,4,2,1,1,11,5,6,Germany Player 10,1,0,3,2,0
+Germany,4,2,1,1,11,5,6,Germany Player 11,1,0,3,2,0
