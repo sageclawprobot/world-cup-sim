@@ -1,0 +1,19 @@
+{
+  "team_a": {
+    "name": "Argentina",
+    "country": "Argentina",
+    "squad_score": 0.0,
+    "league_strength": 15.17,
+    "composite_score": 6.07,
+    "win_probability": 61.0
+  },
+  "team_b": {
+    "name": "Netherlands",
+    "country": "Netherlands",
+    "squad_score": 0.3,
+    "league_strength": 9.25,
+    "composite_score": 3.88,
+    "win_probability": 39.0
+  },
+  "favorite": "Argentina"
+}

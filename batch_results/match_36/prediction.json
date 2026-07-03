@@ -1,0 +1,19 @@
+{
+  "team_a": {
+    "name": "Spain",
+    "country": "Spain",
+    "squad_score": 0.0,
+    "league_strength": 12.25,
+    "composite_score": 4.9,
+    "win_probability": 55.8
+  },
+  "team_b": {
+    "name": "Netherlands",
+    "country": "Netherlands",
+    "squad_score": 0.3,
+    "league_strength": 9.25,
+    "composite_score": 3.88,
+    "win_probability": 44.2
+  },
+  "favorite": "Spain"
+}

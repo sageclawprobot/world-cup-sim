@@ -1,0 +1,19 @@
+{
+  "team_a": {
+    "name": "Argentina",
+    "country": "Argentina",
+    "squad_score": 0.0,
+    "league_strength": 15.17,
+    "composite_score": 6.07,
+    "win_probability": 62.1
+  },
+  "team_b": {
+    "name": "Portugal",
+    "country": "Portugal",
+    "squad_score": 0.0,
+    "league_strength": 9.25,
+    "composite_score": 3.7,
+    "win_probability": 37.9
+  },
+  "favorite": "Argentina"
+}

@@ -1,0 +1,19 @@
+{
+  "team_a": {
+    "name": "Morocco",
+    "country": "Morocco",
+    "squad_score": 0.0,
+    "league_strength": 8.88,
+    "composite_score": 3.55,
+    "win_probability": 45.0
+  },
+  "team_b": {
+    "name": "Colombia",
+    "country": "Colombia",
+    "squad_score": 0.0,
+    "league_strength": 10.83,
+    "composite_score": 4.33,
+    "win_probability": 55.0
+  },
+  "favorite": "Colombia"
+}

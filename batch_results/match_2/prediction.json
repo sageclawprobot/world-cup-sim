@@ -1,0 +1,19 @@
+{
+  "team_a": {
+    "name": "France",
+    "country": "France",
+    "squad_score": 0.3,
+    "league_strength": 15.38,
+    "composite_score": 6.33,
+    "win_probability": 56.4
+  },
+  "team_b": {
+    "name": "Spain",
+    "country": "Spain",
+    "squad_score": 0.0,
+    "league_strength": 12.25,
+    "composite_score": 4.9,
+    "win_probability": 43.6
+  },
+  "favorite": "France"
+}

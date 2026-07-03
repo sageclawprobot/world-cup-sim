@@ -1,0 +1,19 @@
+{
+  "team_a": {
+    "name": "Switzerland",
+    "country": "Switzerland",
+    "squad_score": 0.0,
+    "league_strength": 12.0,
+    "composite_score": 4.8,
+    "win_probability": 44.2
+  },
+  "team_b": {
+    "name": "Argentina",
+    "country": "Argentina",
+    "squad_score": 0.0,
+    "league_strength": 15.17,
+    "composite_score": 6.07,
+    "win_probability": 55.8
+  },
+  "favorite": "Argentina"
+}

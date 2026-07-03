@@ -1,0 +1,19 @@
+{
+  "team_a": {
+    "name": "United States",
+    "country": "United States",
+    "squad_score": 0.3,
+    "league_strength": 11.25,
+    "composite_score": 4.68,
+    "win_probability": 51.1
+  },
+  "team_b": {
+    "name": "Norway",
+    "country": "Norway",
+    "squad_score": 0.3,
+    "league_strength": 10.75,
+    "composite_score": 4.48,
+    "win_probability": 48.9
+  },
+  "favorite": "United States"
+}

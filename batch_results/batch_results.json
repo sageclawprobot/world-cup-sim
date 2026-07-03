@@ -1,0 +1,855 @@
+[
+  {
+    "match_id": 1,
+    "team_a": "France",
+    "team_b": "Mexico",
+    "favorite": "France",
+    "status": "completed"
+  },
+  {
+    "match_id": 2,
+    "team_a": "France",
+    "team_b": "Spain",
+    "favorite": "France",
+    "status": "completed"
+  },
+  {
+    "match_id": 3,
+    "team_a": "France",
+    "team_b": "Brazil",
+    "favorite": "France",
+    "status": "completed"
+  },
+  {
+    "match_id": 4,
+    "team_a": "France",
+    "team_b": "Switzerland",
+    "favorite": "France",
+    "status": "completed"
+  },
+  {
+    "match_id": 5,
+    "team_a": "France",
+    "team_b": "Argentina",
+    "favorite": "France",
+    "status": "completed"
+  },
+  {
+    "match_id": 6,
+    "team_a": "France",
+    "team_b": "England",
+    "favorite": "France",
+    "status": "completed"
+  },
+  {
+    "match_id": 7,
+    "team_a": "France",
+    "team_b": "United States",
+    "favorite": "France",
+    "status": "completed"
+  },
+  {
+    "match_id": 8,
+    "team_a": "France",
+    "team_b": "Norway",
+    "favorite": "France",
+    "status": "completed"
+  },
+  {
+    "match_id": 9,
+    "team_a": "France",
+    "team_b": "Netherlands",
+    "favorite": "France",
+    "status": "completed"
+  },
+  {
+    "match_id": 10,
+    "team_a": "France",
+    "team_b": "Portugal",
+    "favorite": "France",
+    "status": "completed"
+  },
+  {
+    "match_id": 11,
+    "team_a": "France",
+    "team_b": "Belgium",
+    "favorite": "France",
+    "status": "completed"
+  },
+  {
+    "match_id": 12,
+    "team_a": "France",
+    "team_b": "Canada",
+    "favorite": "France",
+    "status": "completed"
+  },
+  {
+    "match_id": 13,
+    "team_a": "France",
+    "team_b": "Germany",
+    "favorite": "France",
+    "status": "completed"
+  },
+  {
+    "match_id": 14,
+    "team_a": "France",
+    "team_b": "Morocco",
+    "favorite": "France",
+    "status": "completed"
+  },
+  {
+    "match_id": 15,
+    "team_a": "France",
+    "team_b": "Colombia",
+    "favorite": "France",
+    "status": "completed"
+  },
+  {
+    "match_id": 16,
+    "team_a": "Mexico",
+    "team_b": "Spain",
+    "favorite": "Mexico",
+    "status": "completed"
+  },
+  {
+    "match_id": 17,
+    "team_a": "Mexico",
+    "team_b": "Brazil",
+    "favorite": "Mexico",
+    "status": "completed"
+  },
+  {
+    "match_id": 18,
+    "team_a": "Mexico",
+    "team_b": "Switzerland",
+    "favorite": "Mexico",
+    "status": "completed"
+  },
+  {
+    "match_id": 19,
+    "team_a": "Mexico",
+    "team_b": "Argentina",
+    "favorite": "Argentina",
+    "status": "completed"
+  },
+  {
+    "match_id": 20,
+    "team_a": "Mexico",
+    "team_b": "England",
+    "favorite": "Mexico",
+    "status": "completed"
+  },
+  {
+    "match_id": 21,
+    "team_a": "Mexico",
+    "team_b": "United States",
+    "favorite": "Mexico",
+    "status": "completed"
+  },
+  {
+    "match_id": 22,
+    "team_a": "Mexico",
+    "team_b": "Norway",
+    "favorite": "Mexico",
+    "status": "completed"
+  },
+  {
+    "match_id": 23,
+    "team_a": "Mexico",
+    "team_b": "Netherlands",
+    "favorite": "Mexico",
+    "status": "completed"
+  },
+  {
+    "match_id": 24,
+    "team_a": "Mexico",
+    "team_b": "Portugal",
+    "favorite": "Mexico",
+    "status": "completed"
+  },
+  {
+    "match_id": 25,
+    "team_a": "Mexico",
+    "team_b": "Belgium",
+    "favorite": "Mexico",
+    "status": "completed"
+  },
+  {
+    "match_id": 26,
+    "team_a": "Mexico",
+    "team_b": "Canada",
+    "favorite": "Mexico",
+    "status": "completed"
+  },
+  {
+    "match_id": 27,
+    "team_a": "Mexico",
+    "team_b": "Germany",
+    "favorite": "Mexico",
+    "status": "completed"
+  },
+  {
+    "match_id": 28,
+    "team_a": "Mexico",
+    "team_b": "Morocco",
+    "favorite": "Mexico",
+    "status": "completed"
+  },
+  {
+    "match_id": 29,
+    "team_a": "Mexico",
+    "team_b": "Colombia",
+    "favorite": "Mexico",
+    "status": "completed"
+  },
+  {
+    "match_id": 30,
+    "team_a": "Spain",
+    "team_b": "Brazil",
+    "favorite": "Spain",
+    "status": "completed"
+  },
+  {
+    "match_id": 31,
+    "team_a": "Spain",
+    "team_b": "Switzerland",
+    "favorite": "Spain",
+    "status": "completed"
+  },
+  {
+    "match_id": 32,
+    "team_a": "Spain",
+    "team_b": "Argentina",
+    "favorite": "Argentina",
+    "status": "completed"
+  },
+  {
+    "match_id": 33,
+    "team_a": "Spain",
+    "team_b": "England",
+    "favorite": "Spain",
+    "status": "completed"
+  },
+  {
+    "match_id": 34,
+    "team_a": "Spain",
+    "team_b": "United States",
+    "favorite": "Spain",
+    "status": "completed"
+  },
+  {
+    "match_id": 35,
+    "team_a": "Spain",
+    "team_b": "Norway",
+    "favorite": "Spain",
+    "status": "completed"
+  },
+  {
+    "match_id": 36,
+    "team_a": "Spain",
+    "team_b": "Netherlands",
+    "favorite": "Spain",
+    "status": "completed"
+  },
+  {
+    "match_id": 37,
+    "team_a": "Spain",
+    "team_b": "Portugal",
+    "favorite": "Spain",
+    "status": "completed"
+  },
+  {
+    "match_id": 38,
+    "team_a": "Spain",
+    "team_b": "Belgium",
+    "favorite": "Spain",
+    "status": "completed"
+  },
+  {
+    "match_id": 39,
+    "team_a": "Spain",
+    "team_b": "Canada",
+    "favorite": "Spain",
+    "status": "completed"
+  },
+  {
+    "match_id": 40,
+    "team_a": "Spain",
+    "team_b": "Germany",
+    "favorite": "Spain",
+    "status": "completed"
+  },
+  {
+    "match_id": 41,
+    "team_a": "Spain",
+    "team_b": "Morocco",
+    "favorite": "Spain",
+    "status": "completed"
+  },
+  {
+    "match_id": 42,
+    "team_a": "Spain",
+    "team_b": "Colombia",
+    "favorite": "Spain",
+    "status": "completed"
+  },
+  {
+    "match_id": 43,
+    "team_a": "Brazil",
+    "team_b": "Switzerland",
+    "favorite": "Brazil",
+    "status": "completed"
+  },
+  {
+    "match_id": 44,
+    "team_a": "Brazil",
+    "team_b": "Argentina",
+    "favorite": "Argentina",
+    "status": "completed"
+  },
+  {
+    "match_id": 45,
+    "team_a": "Brazil",
+    "team_b": "England",
+    "favorite": "Brazil",
+    "status": "completed"
+  },
+  {
+    "match_id": 46,
+    "team_a": "Brazil",
+    "team_b": "United States",
+    "favorite": "Brazil",
+    "status": "completed"
+  },
+  {
+    "match_id": 47,
+    "team_a": "Brazil",
+    "team_b": "Norway",
+    "favorite": "Brazil",
+    "status": "completed"
+  },
+  {
+    "match_id": 48,
+    "team_a": "Brazil",
+    "team_b": "Netherlands",
+    "favorite": "Brazil",
+    "status": "completed"
+  },
+  {
+    "match_id": 49,
+    "team_a": "Brazil",
+    "team_b": "Portugal",
+    "favorite": "Brazil",
+    "status": "completed"
+  },
+  {
+    "match_id": 50,
+    "team_a": "Brazil",
+    "team_b": "Belgium",
+    "favorite": "Brazil",
+    "status": "completed"
+  },
+  {
+    "match_id": 51,
+    "team_a": "Brazil",
+    "team_b": "Canada",
+    "favorite": "Brazil",
+    "status": "completed"
+  },
+  {
+    "match_id": 52,
+    "team_a": "Brazil",
+    "team_b": "Germany",
+    "favorite": "Brazil",
+    "status": "completed"
+  },
+  {
+    "match_id": 53,
+    "team_a": "Brazil",
+    "team_b": "Morocco",
+    "favorite": "Brazil",
+    "status": "completed"
+  },
+  {
+    "match_id": 54,
+    "team_a": "Brazil",
+    "team_b": "Colombia",
+    "favorite": "Brazil",
+    "status": "completed"
+  },
+  {
+    "match_id": 55,
+    "team_a": "Switzerland",
+    "team_b": "Argentina",
+    "favorite": "Argentina",
+    "status": "completed"
+  },
+  {
+    "match_id": 56,
+    "team_a": "Switzerland",
+    "team_b": "England",
+    "favorite": "Switzerland",
+    "status": "completed"
+  },
+  {
+    "match_id": 57,
+    "team_a": "Switzerland",
+    "team_b": "United States",
+    "favorite": "Switzerland",
+    "status": "completed"
+  },
+  {
+    "match_id": 58,
+    "team_a": "Switzerland",
+    "team_b": "Norway",
+    "favorite": "Switzerland",
+    "status": "completed"
+  },
+  {
+    "match_id": 59,
+    "team_a": "Switzerland",
+    "team_b": "Netherlands",
+    "favorite": "Switzerland",
+    "status": "completed"
+  },
+  {
+    "match_id": 60,
+    "team_a": "Switzerland",
+    "team_b": "Portugal",
+    "favorite": "Switzerland",
+    "status": "completed"
+  },
+  {
+    "match_id": 61,
+    "team_a": "Switzerland",
+    "team_b": "Belgium",
+    "favorite": "Switzerland",
+    "status": "completed"
+  },
+  {
+    "match_id": 62,
+    "team_a": "Switzerland",
+    "team_b": "Canada",
+    "favorite": "Switzerland",
+    "status": "completed"
+  },
+  {
+    "match_id": 63,
+    "team_a": "Switzerland",
+    "team_b": "Germany",
+    "favorite": "Switzerland",
+    "status": "completed"
+  },
+  {
+    "match_id": 64,
+    "team_a": "Switzerland",
+    "team_b": "Morocco",
+    "favorite": "Switzerland",
+    "status": "completed"
+  },
+  {
+    "match_id": 65,
+    "team_a": "Switzerland",
+    "team_b": "Colombia",
+    "favorite": "Switzerland",
+    "status": "completed"
+  },
+  {
+    "match_id": 66,
+    "team_a": "Argentina",
+    "team_b": "England",
+    "favorite": "Argentina",
+    "status": "completed"
+  },
+  {
+    "match_id": 67,
+    "team_a": "Argentina",
+    "team_b": "United States",
+    "favorite": "Argentina",
+    "status": "completed"
+  },
+  {
+    "match_id": 68,
+    "team_a": "Argentina",
+    "team_b": "Norway",
+    "favorite": "Argentina",
+    "status": "completed"
+  },
+  {
+    "match_id": 69,
+    "team_a": "Argentina",
+    "team_b": "Netherlands",
+    "favorite": "Argentina",
+    "status": "completed"
+  },
+  {
+    "match_id": 70,
+    "team_a": "Argentina",
+    "team_b": "Portugal",
+    "favorite": "Argentina",
+    "status": "completed"
+  },
+  {
+    "match_id": 71,
+    "team_a": "Argentina",
+    "team_b": "Belgium",
+    "favorite": "Argentina",
+    "status": "completed"
+  },
+  {
+    "match_id": 72,
+    "team_a": "Argentina",
+    "team_b": "Canada",
+    "favorite": "Argentina",
+    "status": "completed"
+  },
+  {
+    "match_id": 73,
+    "team_a": "Argentina",
+    "team_b": "Germany",
+    "favorite": "Argentina",
+    "status": "completed"
+  },
+  {
+    "match_id": 74,
+    "team_a": "Argentina",
+    "team_b": "Morocco",
+    "favorite": "Argentina",
+    "status": "completed"
+  },
+  {
+    "match_id": 75,
+    "team_a": "Argentina",
+    "team_b": "Colombia",
+    "favorite": "Argentina",
+    "status": "completed"
+  },
+  {
+    "match_id": 76,
+    "team_a": "England",
+    "team_b": "United States",
+    "favorite": "England",
+    "status": "completed"
+  },
+  {
+    "match_id": 77,
+    "team_a": "England",
+    "team_b": "Norway",
+    "favorite": "England",
+    "status": "completed"
+  },
+  {
+    "match_id": 78,
+    "team_a": "England",
+    "team_b": "Netherlands",
+    "favorite": "England",
+    "status": "completed"
+  },
+  {
+    "match_id": 79,
+    "team_a": "England",
+    "team_b": "Portugal",
+    "favorite": "England",
+    "status": "completed"
+  },
+  {
+    "match_id": 80,
+    "team_a": "England",
+    "team_b": "Belgium",
+    "favorite": "England",
+    "status": "completed"
+  },
+  {
+    "match_id": 81,
+    "team_a": "England",
+    "team_b": "Canada",
+    "favorite": "England",
+    "status": "completed"
+  },
+  {
+    "match_id": 82,
+    "team_a": "England",
+    "team_b": "Germany",
+    "favorite": "England",
+    "status": "completed"
+  },
+  {
+    "match_id": 83,
+    "team_a": "England",
+    "team_b": "Morocco",
+    "favorite": "England",
+    "status": "completed"
+  },
+  {
+    "match_id": 84,
+    "team_a": "England",
+    "team_b": "Colombia",
+    "favorite": "England",
+    "status": "completed"
+  },
+  {
+    "match_id": 85,
+    "team_a": "United States",
+    "team_b": "Norway",
+    "favorite": "United States",
+    "status": "completed"
+  },
+  {
+    "match_id": 86,
+    "team_a": "United States",
+    "team_b": "Netherlands",
+    "favorite": "United States",
+    "status": "completed"
+  },
+  {
+    "match_id": 87,
+    "team_a": "United States",
+    "team_b": "Portugal",
+    "favorite": "United States",
+    "status": "completed"
+  },
+  {
+    "match_id": 88,
+    "team_a": "United States",
+    "team_b": "Belgium",
+    "favorite": "United States",
+    "status": "completed"
+  },
+  {
+    "match_id": 89,
+    "team_a": "United States",
+    "team_b": "Canada",
+    "favorite": "United States",
+    "status": "completed"
+  },
+  {
+    "match_id": 90,
+    "team_a": "United States",
+    "team_b": "Germany",
+    "favorite": "United States",
+    "status": "completed"
+  },
+  {
+    "match_id": 91,
+    "team_a": "United States",
+    "team_b": "Morocco",
+    "favorite": "United States",
+    "status": "completed"
+  },
+  {
+    "match_id": 92,
+    "team_a": "United States",
+    "team_b": "Colombia",
+    "favorite": "United States",
+    "status": "completed"
+  },
+  {
+    "match_id": 93,
+    "team_a": "Norway",
+    "team_b": "Netherlands",
+    "favorite": "Norway",
+    "status": "completed"
+  },
+  {
+    "match_id": 94,
+    "team_a": "Norway",
+    "team_b": "Portugal",
+    "favorite": "Norway",
+    "status": "completed"
+  },
+  {
+    "match_id": 95,
+    "team_a": "Norway",
+    "team_b": "Belgium",
+    "favorite": "Norway",
+    "status": "completed"
+  },
+  {
+    "match_id": 96,
+    "team_a": "Norway",
+    "team_b": "Canada",
+    "favorite": "Norway",
+    "status": "completed"
+  },
+  {
+    "match_id": 97,
+    "team_a": "Norway",
+    "team_b": "Germany",
+    "favorite": "Norway",
+    "status": "completed"
+  },
+  {
+    "match_id": 98,
+    "team_a": "Norway",
+    "team_b": "Morocco",
+    "favorite": "Norway",
+    "status": "completed"
+  },
+  {
+    "match_id": 99,
+    "team_a": "Norway",
+    "team_b": "Colombia",
+    "favorite": "Norway",
+    "status": "completed"
+  },
+  {
+    "match_id": 100,
+    "team_a": "Netherlands",
+    "team_b": "Portugal",
+    "favorite": "Netherlands",
+    "status": "completed"
+  },
+  {
+    "match_id": 101,
+    "team_a": "Netherlands",
+    "team_b": "Belgium",
+    "favorite": "Netherlands",
+    "status": "completed"
+  },
+  {
+    "match_id": 102,
+    "team_a": "Netherlands",
+    "team_b": "Canada",
+    "favorite": "Netherlands",
+    "status": "completed"
+  },
+  {
+    "match_id": 103,
+    "team_a": "Netherlands",
+    "team_b": "Germany",
+    "favorite": "Netherlands",
+    "status": "completed"
+  },
+  {
+    "match_id": 104,
+    "team_a": "Netherlands",
+    "team_b": "Morocco",
+    "favorite": "Netherlands",
+    "status": "completed"
+  },
+  {
+    "match_id": 105,
+    "team_a": "Netherlands",
+    "team_b": "Colombia",
+    "favorite": "Colombia",
+    "status": "completed"
+  },
+  {
+    "match_id": 106,
+    "team_a": "Portugal",
+    "team_b": "Belgium",
+    "favorite": "Portugal",
+    "status": "completed"
+  },
+  {
+    "match_id": 107,
+    "team_a": "Portugal",
+    "team_b": "Canada",
+    "favorite": "Portugal",
+    "status": "completed"
+  },
+  {
+    "match_id": 108,
+    "team_a": "Portugal",
+    "team_b": "Germany",
+    "favorite": "Portugal",
+    "status": "completed"
+  },
+  {
+    "match_id": 109,
+    "team_a": "Portugal",
+    "team_b": "Morocco",
+    "favorite": "Portugal",
+    "status": "completed"
+  },
+  {
+    "match_id": 110,
+    "team_a": "Portugal",
+    "team_b": "Colombia",
+    "favorite": "Colombia",
+    "status": "completed"
+  },
+  {
+    "match_id": 111,
+    "team_a": "Belgium",
+    "team_b": "Canada",
+    "favorite": "Belgium",
+    "status": "completed"
+  },
+  {
+    "match_id": 112,
+    "team_a": "Belgium",
+    "team_b": "Germany",
+    "favorite": "Belgium",
+    "status": "completed"
+  },
+  {
+    "match_id": 113,
+    "team_a": "Belgium",
+    "team_b": "Morocco",
+    "favorite": "Belgium",
+    "status": "completed"
+  },
+  {
+    "match_id": 114,
+    "team_a": "Belgium",
+    "team_b": "Colombia",
+    "favorite": "Colombia",
+    "status": "completed"
+  },
+  {
+    "match_id": 115,
+    "team_a": "Canada",
+    "team_b": "Germany",
+    "favorite": "Germany",
+    "status": "completed"
+  },
+  {
+    "match_id": 116,
+    "team_a": "Canada",
+    "team_b": "Morocco",
+    "favorite": "Morocco",
+    "status": "completed"
+  },
+  {
+    "match_id": 117,
+    "team_a": "Canada",
+    "team_b": "Colombia",
+    "favorite": "Colombia",
+    "status": "completed"
+  },
+  {
+    "match_id": 118,
+    "team_a": "Germany",
+    "team_b": "Morocco",
+    "favorite": "Germany",
+    "status": "completed"
+  },
+  {
+    "match_id": 119,
+    "team_a": "Germany",
+    "team_b": "Colombia",
+    "favorite": "Colombia",
+    "status": "completed"
+  },
+  {
+    "match_id": 120,
+    "team_a": "Morocco",
+    "team_b": "Colombia",
+    "favorite": "Colombia",
+    "status": "completed"
+  },
+  {
+    "match_id": 121,
+    "team_a": "Italy",
+    "team_b": "Germany",
+    "status": "failed"
+  },
+  {
+    "match_id": 122,
+    "team_a": "Croatia",
+    "team_b": "France",
+    "favorite": "France",
+    "status": "completed"
+  }
+]

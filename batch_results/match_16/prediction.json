@@ -1,0 +1,19 @@
+{
+  "team_a": {
+    "name": "Mexico",
+    "country": "Mexico",
+    "squad_score": 0.0,
+    "league_strength": 15.0,
+    "composite_score": 6.0,
+    "win_probability": 55.0
+  },
+  "team_b": {
+    "name": "Spain",
+    "country": "Spain",
+    "squad_score": 0.0,
+    "league_strength": 12.25,
+    "composite_score": 4.9,
+    "win_probability": 45.0
+  },
+  "favorite": "Mexico"
+}

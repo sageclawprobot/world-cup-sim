@@ -1,0 +1,123 @@
+match_id,team_a,team_b,favorite,status
+1,France,Mexico,France,completed
+2,France,Spain,France,completed
+3,France,Brazil,France,completed
+4,France,Switzerland,France,completed
+5,France,Argentina,France,completed
+6,France,England,France,completed
+7,France,United States,France,completed
+8,France,Norway,France,completed
+9,France,Netherlands,France,completed
+10,France,Portugal,France,completed
+11,France,Belgium,France,completed
+12,France,Canada,France,completed
+13,France,Germany,France,completed
+14,France,Morocco,France,completed
+15,France,Colombia,France,completed
+16,Mexico,Spain,Mexico,completed
+17,Mexico,Brazil,Mexico,completed
+18,Mexico,Switzerland,Mexico,completed
+19,Mexico,Argentina,Argentina,completed
+20,Mexico,England,Mexico,completed
+21,Mexico,United States,Mexico,completed
+22,Mexico,Norway,Mexico,completed
+23,Mexico,Netherlands,Mexico,completed
+24,Mexico,Portugal,Mexico,completed
+25,Mexico,Belgium,Mexico,completed
+26,Mexico,Canada,Mexico,completed
+27,Mexico,Germany,Mexico,completed
+28,Mexico,Morocco,Mexico,completed
+29,Mexico,Colombia,Mexico,completed
+30,Spain,Brazil,Spain,completed
+31,Spain,Switzerland,Spain,completed
+32,Spain,Argentina,Argentina,completed
+33,Spain,England,Spain,completed
+34,Spain,United States,Spain,completed
+35,Spain,Norway,Spain,completed
+36,Spain,Netherlands,Spain,completed
+37,Spain,Portugal,Spain,completed
+38,Spain,Belgium,Spain,completed
+39,Spain,Canada,Spain,completed
+40,Spain,Germany,Spain,completed
+41,Spain,Morocco,Spain,completed
+42,Spain,Colombia,Spain,completed
+43,Brazil,Switzerland,Brazil,completed
+44,Brazil,Argentina,Argentina,completed
+45,Brazil,England,Brazil,completed
+46,Brazil,United States,Brazil,completed
+47,Brazil,Norway,Brazil,completed
+48,Brazil,Netherlands,Brazil,completed
+49,Brazil,Portugal,Brazil,completed
+50,Brazil,Belgium,Brazil,completed
+51,Brazil,Canada,Brazil,completed
+52,Brazil,Germany,Brazil,completed
+53,Brazil,Morocco,Brazil,completed
+54,Brazil,Colombia,Brazil,completed
+55,Switzerland,Argentina,Argentina,completed
+56,Switzerland,England,Switzerland,completed
+57,Switzerland,United States,Switzerland,completed
+58,Switzerland,Norway,Switzerland,completed
+59,Switzerland,Netherlands,Switzerland,completed
+60,Switzerland,Portugal,Switzerland,completed
+61,Switzerland,Belgium,Switzerland,completed
+62,Switzerland,Canada,Switzerland,completed
+63,Switzerland,Germany,Switzerland,completed
+64,Switzerland,Morocco,Switzerland,completed
+65,Switzerland,Colombia,Switzerland,completed
+66,Argentina,England,Argentina,completed
+67,Argentina,United States,Argentina,completed
+68,Argentina,Norway,Argentina,completed
+69,Argentina,Netherlands,Argentina,completed
+70,Argentina,Portugal,Argentina,completed
+71,Argentina,Belgium,Argentina,completed
+72,Argentina,Canada,Argentina,completed
+73,Argentina,Germany,Argentina,completed
+74,Argentina,Morocco,Argentina,completed
+75,Argentina,Colombia,Argentina,completed
+76,England,United States,England,completed
+77,England,Norway,England,completed
+78,England,Netherlands,England,completed
+79,England,Portugal,England,completed
+80,England,Belgium,England,completed
+81,England,Canada,England,completed
+82,England,Germany,England,completed
+83,England,Morocco,England,completed
+84,England,Colombia,England,completed
+85,United States,Norway,United States,completed
+86,United States,Netherlands,United States,completed
+87,United States,Portugal,United States,completed
+88,United States,Belgium,United States,completed
+89,United States,Canada,United States,completed
+90,United States,Germany,United States,completed
+91,United States,Morocco,United States,completed
+92,United States,Colombia,United States,completed
+93,Norway,Netherlands,Norway,completed
+94,Norway,Portugal,Norway,completed
+95,Norway,Belgium,Norway,completed
+96,Norway,Canada,Norway,completed
+97,Norway,Germany,Norway,completed
+98,Norway,Morocco,Norway,completed
+99,Norway,Colombia,Norway,completed
+100,Netherlands,Portugal,Netherlands,completed
+101,Netherlands,Belgium,Netherlands,completed
+102,Netherlands,Canada,Netherlands,completed
+103,Netherlands,Germany,Netherlands,completed
+104,Netherlands,Morocco,Netherlands,completed
+105,Netherlands,Colombia,Colombia,completed
+106,Portugal,Belgium,Portugal,completed
+107,Portugal,Canada,Portugal,completed
+108,Portugal,Germany,Portugal,completed
+109,Portugal,Morocco,Portugal,completed
+110,Portugal,Colombia,Colombia,completed
+111,Belgium,Canada,Belgium,completed
+112,Belgium,Germany,Belgium,completed
+113,Belgium,Morocco,Belgium,completed
+114,Belgium,Colombia,Colombia,completed
+115,Canada,Germany,Germany,completed
+116,Canada,Morocco,Morocco,completed
+117,Canada,Colombia,Colombia,completed
+118,Germany,Morocco,Germany,completed
+119,Germany,Colombia,Colombia,completed
+120,Morocco,Colombia,Colombia,completed
+121,Italy,Germany,N/A,failed
+122,Croatia,France,France,completed
