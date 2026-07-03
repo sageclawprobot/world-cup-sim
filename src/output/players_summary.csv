@@ -1,23 +1,23 @@
 PlayerName,TeamName,Position,Goals,Assists,ShotsOnTarget,ShotsOnGoal,HeadedAttempts,ContributionScore
-Argentina Player 1,Argentina,GK,0,0,0,0,0,0.0
-Argentina Player 2,Argentina,DEF,0,0,0,0,0,0.0
-Argentina Player 3,Argentina,DEF,0,0,0,0,0,0.0
-Argentina Player 4,Argentina,DEF,0,0,0,0,0,0.0
-Argentina Player 5,Argentina,DEF,0,0,0,0,0,0.0
-Argentina Player 6,Argentina,MID,0,0,0,0,0,0.0
-Argentina Player 7,Argentina,MID,0,0,0,0,0,0.0
-Argentina Player 8,Argentina,MID,0,0,0,0,0,0.0
-Argentina Player 9,Argentina,FWD,0,0,0,0,0,0.0
-Argentina Player 10,Argentina,FWD,0,0,0,0,0,0.0
-Argentina Player 11,Argentina,FWD,0,0,0,0,0,0.0
-Cape Verde Player 1,Cape Verde,GK,0,0,0,0,0,0.0
-Cape Verde Player 2,Cape Verde,DEF,0,0,0,0,0,0.0
-Cape Verde Player 3,Cape Verde,DEF,0,0,0,0,0,0.0
-Cape Verde Player 4,Cape Verde,DEF,0,0,0,0,0,0.0
-Cape Verde Player 5,Cape Verde,DEF,0,0,0,0,0,0.0
-Cape Verde Player 6,Cape Verde,MID,0,0,0,0,0,0.0
-Cape Verde Player 7,Cape Verde,MID,0,0,0,0,0,0.0
-Cape Verde Player 8,Cape Verde,MID,0,0,0,0,0,0.0
-Cape Verde Player 9,Cape Verde,FWD,0,0,0,0,0,0.0
-Cape Verde Player 10,Cape Verde,FWD,0,0,0,0,0,0.0
-Cape Verde Player 11,Cape Verde,FWD,0,0,0,0,0,0.0
+Argentina Player 1,Argentina,GK,1,0,2,1,0,0.8
+Argentina Player 2,Argentina,DEF,1,0,2,1,1,0.81
+Argentina Player 3,Argentina,DEF,1,0,2,1,1,0.81
+Argentina Player 4,Argentina,DEF,1,0,2,1,1,0.81
+Argentina Player 5,Argentina,DEF,1,0,2,1,1,0.81
+Argentina Player 6,Argentina,MID,1,0,2,1,0,0.8
+Argentina Player 7,Argentina,MID,1,0,2,1,0,0.8
+Argentina Player 8,Argentina,MID,1,0,2,1,0,0.8
+Argentina Player 9,Argentina,FWD,1,0,2,1,1,0.81
+Argentina Player 10,Argentina,FWD,1,0,2,1,1,0.81
+Argentina Player 11,Argentina,FWD,1,0,2,1,1,0.81
+Cape Verde Player 1,Cape Verde,GK,1,0,2,1,0,0.8
+Cape Verde Player 2,Cape Verde,DEF,1,0,2,1,1,0.81
+Cape Verde Player 3,Cape Verde,DEF,1,0,2,1,1,0.81
+Cape Verde Player 4,Cape Verde,DEF,1,0,2,1,1,0.81
+Cape Verde Player 5,Cape Verde,DEF,1,0,2,1,1,0.81
+Cape Verde Player 6,Cape Verde,MID,1,0,2,1,0,0.8
+Cape Verde Player 7,Cape Verde,MID,1,0,2,1,0,0.8
+Cape Verde Player 8,Cape Verde,MID,1,0,2,1,0,0.8
+Cape Verde Player 9,Cape Verde,FWD,1,0,2,1,1,0.81
+Cape Verde Player 10,Cape Verde,FWD,1,0,2,1,1,0.81
+Cape Verde Player 11,Cape Verde,FWD,1,0,2,1,1,0.81

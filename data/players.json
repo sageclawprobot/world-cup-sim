@@ -5,10 +5,10 @@
       "name": "South Africa Player 1",
       "team_id": "team_2",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -16,54 +16,54 @@
       "name": "South Africa Player 2",
       "team_id": "team_2",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_3",
       "name": "South Africa Player 3",
       "team_id": "team_2",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_4",
       "name": "South Africa Player 4",
       "team_id": "team_2",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_5",
       "name": "South Africa Player 5",
       "team_id": "team_2",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_6",
       "name": "South Africa Player 6",
       "team_id": "team_2",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -71,10 +71,10 @@
       "name": "South Africa Player 7",
       "team_id": "team_2",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -82,10 +82,10 @@
       "name": "South Africa Player 8",
       "team_id": "team_2",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -93,43 +93,43 @@
       "name": "South Africa Player 9",
       "team_id": "team_2",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_10",
       "name": "South Africa Player 10",
       "team_id": "team_2",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_11",
       "name": "South Africa Player 11",
       "team_id": "team_2",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_12",
       "name": "Brazil Player 1",
       "team_id": "team_9",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -137,54 +137,54 @@
       "name": "Brazil Player 2",
       "team_id": "team_9",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_14",
       "name": "Brazil Player 3",
       "team_id": "team_9",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_15",
       "name": "Brazil Player 4",
       "team_id": "team_9",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_16",
       "name": "Brazil Player 5",
       "team_id": "team_9",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_17",
       "name": "Brazil Player 6",
       "team_id": "team_9",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -192,10 +192,10 @@
       "name": "Brazil Player 7",
       "team_id": "team_9",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -203,10 +203,10 @@
       "name": "Brazil Player 8",
       "team_id": "team_9",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -214,43 +214,43 @@
       "name": "Brazil Player 9",
       "team_id": "team_9",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_21",
       "name": "Brazil Player 10",
       "team_id": "team_9",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_22",
       "name": "Brazil Player 11",
       "team_id": "team_9",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_23",
       "name": "Scotland Player 1",
       "team_id": "team_12",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -258,54 +258,54 @@
       "name": "Scotland Player 2",
       "team_id": "team_12",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_25",
       "name": "Scotland Player 3",
       "team_id": "team_12",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_26",
       "name": "Scotland Player 4",
       "team_id": "team_12",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_27",
       "name": "Scotland Player 5",
       "team_id": "team_12",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_28",
       "name": "Scotland Player 6",
       "team_id": "team_12",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -313,10 +313,10 @@
       "name": "Scotland Player 7",
       "team_id": "team_12",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -324,10 +324,10 @@
       "name": "Scotland Player 8",
       "team_id": "team_12",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -335,43 +335,43 @@
       "name": "Scotland Player 9",
       "team_id": "team_12",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_32",
       "name": "Scotland Player 10",
       "team_id": "team_12",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_33",
       "name": "Scotland Player 11",
       "team_id": "team_12",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_34",
       "name": "Turkey Player 1",
       "team_id": "team_16",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -379,54 +379,54 @@
       "name": "Turkey Player 2",
       "team_id": "team_16",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_36",
       "name": "Turkey Player 3",
       "team_id": "team_16",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_37",
       "name": "Turkey Player 4",
       "team_id": "team_16",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_38",
       "name": "Turkey Player 5",
       "team_id": "team_16",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_39",
       "name": "Turkey Player 6",
       "team_id": "team_16",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -434,10 +434,10 @@
       "name": "Turkey Player 7",
       "team_id": "team_16",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -445,10 +445,10 @@
       "name": "Turkey Player 8",
       "team_id": "team_16",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -456,43 +456,43 @@
       "name": "Turkey Player 9",
       "team_id": "team_16",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_43",
       "name": "Turkey Player 10",
       "team_id": "team_16",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_44",
       "name": "Turkey Player 11",
       "team_id": "team_16",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_45",
       "name": "Ivory Coast Player 1",
       "team_id": "team_19",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -500,54 +500,54 @@
       "name": "Ivory Coast Player 2",
       "team_id": "team_19",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_47",
       "name": "Ivory Coast Player 3",
       "team_id": "team_19",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_48",
       "name": "Ivory Coast Player 4",
       "team_id": "team_19",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_49",
       "name": "Ivory Coast Player 5",
       "team_id": "team_19",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_50",
       "name": "Ivory Coast Player 6",
       "team_id": "team_19",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -555,10 +555,10 @@
       "name": "Ivory Coast Player 7",
       "team_id": "team_19",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -566,10 +566,10 @@
       "name": "Ivory Coast Player 8",
       "team_id": "team_19",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -577,43 +577,43 @@
       "name": "Ivory Coast Player 9",
       "team_id": "team_19",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_54",
       "name": "Ivory Coast Player 10",
       "team_id": "team_19",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_55",
       "name": "Ivory Coast Player 11",
       "team_id": "team_19",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_56",
       "name": "Netherlands Player 1",
       "team_id": "team_21",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -621,54 +621,54 @@
       "name": "Netherlands Player 2",
       "team_id": "team_21",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_58",
       "name": "Netherlands Player 3",
       "team_id": "team_21",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_59",
       "name": "Netherlands Player 4",
       "team_id": "team_21",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_60",
       "name": "Netherlands Player 5",
       "team_id": "team_21",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_61",
       "name": "Netherlands Player 6",
       "team_id": "team_21",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -676,10 +676,10 @@
       "name": "Netherlands Player 7",
       "team_id": "team_21",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -687,10 +687,10 @@
       "name": "Netherlands Player 8",
       "team_id": "team_21",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -700,9 +700,9 @@
       "position": "FWD",
       "goals": 1,
       "assists": 0,
-      "shots_on_target": 3,
-      "shots_on_goal": 2,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_65",
@@ -711,9 +711,9 @@
       "position": "FWD",
       "goals": 1,
       "assists": 0,
-      "shots_on_target": 3,
-      "shots_on_goal": 2,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_66",
@@ -722,19 +722,19 @@
       "position": "FWD",
       "goals": 1,
       "assists": 0,
-      "shots_on_target": 3,
-      "shots_on_goal": 2,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_67",
       "name": "Cape Verde Player 1",
       "team_id": "team_30",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -742,54 +742,54 @@
       "name": "Cape Verde Player 2",
       "team_id": "team_30",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_69",
       "name": "Cape Verde Player 3",
       "team_id": "team_30",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_70",
       "name": "Cape Verde Player 4",
       "team_id": "team_30",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_71",
       "name": "Cape Verde Player 5",
       "team_id": "team_30",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_72",
       "name": "Cape Verde Player 6",
       "team_id": "team_30",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -797,10 +797,10 @@
       "name": "Cape Verde Player 7",
       "team_id": "team_30",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -808,10 +808,10 @@
       "name": "Cape Verde Player 8",
       "team_id": "team_30",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -819,43 +819,43 @@
       "name": "Cape Verde Player 9",
       "team_id": "team_30",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_76",
       "name": "Cape Verde Player 10",
       "team_id": "team_30",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_77",
       "name": "Cape Verde Player 11",
       "team_id": "team_30",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_78",
       "name": "France Player 1",
       "team_id": "team_33",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -863,54 +863,54 @@
       "name": "France Player 2",
       "team_id": "team_33",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_80",
       "name": "France Player 3",
       "team_id": "team_33",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_81",
       "name": "France Player 4",
       "team_id": "team_33",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_82",
       "name": "France Player 5",
       "team_id": "team_33",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_83",
       "name": "France Player 6",
       "team_id": "team_33",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -918,10 +918,10 @@
       "name": "France Player 7",
       "team_id": "team_33",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -929,10 +929,10 @@
       "name": "France Player 8",
       "team_id": "team_33",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -942,9 +942,9 @@
       "position": "FWD",
       "goals": 1,
       "assists": 0,
-      "shots_on_target": 3,
-      "shots_on_goal": 2,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_87",
@@ -953,9 +953,9 @@
       "position": "FWD",
       "goals": 1,
       "assists": 0,
-      "shots_on_target": 3,
-      "shots_on_goal": 2,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_88",
@@ -964,19 +964,19 @@
       "position": "FWD",
       "goals": 1,
       "assists": 0,
-      "shots_on_target": 3,
-      "shots_on_goal": 2,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_89",
       "name": "Tunisia Player 1",
       "team_id": "team_24",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -984,54 +984,54 @@
       "name": "Tunisia Player 2",
       "team_id": "team_24",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_91",
       "name": "Tunisia Player 3",
       "team_id": "team_24",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_92",
       "name": "Tunisia Player 4",
       "team_id": "team_24",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_93",
       "name": "Tunisia Player 5",
       "team_id": "team_24",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_94",
       "name": "Tunisia Player 6",
       "team_id": "team_24",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1039,10 +1039,10 @@
       "name": "Tunisia Player 7",
       "team_id": "team_24",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1050,10 +1050,10 @@
       "name": "Tunisia Player 8",
       "team_id": "team_24",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1061,43 +1061,43 @@
       "name": "Tunisia Player 9",
       "team_id": "team_24",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_98",
       "name": "Tunisia Player 10",
       "team_id": "team_24",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_99",
       "name": "Tunisia Player 11",
       "team_id": "team_24",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_100",
       "name": "Egypt Player 1",
       "team_id": "team_26",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1105,54 +1105,54 @@
       "name": "Egypt Player 2",
       "team_id": "team_26",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_102",
       "name": "Egypt Player 3",
       "team_id": "team_26",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_103",
       "name": "Egypt Player 4",
       "team_id": "team_26",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_104",
       "name": "Egypt Player 5",
       "team_id": "team_26",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_105",
       "name": "Egypt Player 6",
       "team_id": "team_26",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1160,10 +1160,10 @@
       "name": "Egypt Player 7",
       "team_id": "team_26",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1171,10 +1171,10 @@
       "name": "Egypt Player 8",
       "team_id": "team_26",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1182,43 +1182,43 @@
       "name": "Egypt Player 9",
       "team_id": "team_26",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_109",
       "name": "Egypt Player 10",
       "team_id": "team_26",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_110",
       "name": "Egypt Player 11",
       "team_id": "team_26",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_111",
       "name": "Iraq Player 1",
       "team_id": "team_35",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1226,54 +1226,54 @@
       "name": "Iraq Player 2",
       "team_id": "team_35",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_113",
       "name": "Iraq Player 3",
       "team_id": "team_35",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_114",
       "name": "Iraq Player 4",
       "team_id": "team_35",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_115",
       "name": "Iraq Player 5",
       "team_id": "team_35",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_116",
       "name": "Iraq Player 6",
       "team_id": "team_35",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1281,10 +1281,10 @@
       "name": "Iraq Player 7",
       "team_id": "team_35",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1292,10 +1292,10 @@
       "name": "Iraq Player 8",
       "team_id": "team_35",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1303,43 +1303,43 @@
       "name": "Iraq Player 9",
       "team_id": "team_35",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_120",
       "name": "Iraq Player 10",
       "team_id": "team_35",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_121",
       "name": "Iraq Player 11",
       "team_id": "team_35",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_122",
       "name": "Portugal Player 1",
       "team_id": "team_41",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1347,54 +1347,54 @@
       "name": "Portugal Player 2",
       "team_id": "team_41",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_124",
       "name": "Portugal Player 3",
       "team_id": "team_41",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_125",
       "name": "Portugal Player 4",
       "team_id": "team_41",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_126",
       "name": "Portugal Player 5",
       "team_id": "team_41",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_127",
       "name": "Portugal Player 6",
       "team_id": "team_41",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1402,10 +1402,10 @@
       "name": "Portugal Player 7",
       "team_id": "team_41",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1413,10 +1413,10 @@
       "name": "Portugal Player 8",
       "team_id": "team_41",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1424,43 +1424,43 @@
       "name": "Portugal Player 9",
       "team_id": "team_41",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_131",
       "name": "Portugal Player 10",
       "team_id": "team_41",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_132",
       "name": "Portugal Player 11",
       "team_id": "team_41",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_133",
       "name": "Uzbekistan Player 1",
       "team_id": "team_43",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1468,54 +1468,54 @@
       "name": "Uzbekistan Player 2",
       "team_id": "team_43",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_135",
       "name": "Uzbekistan Player 3",
       "team_id": "team_43",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_136",
       "name": "Uzbekistan Player 4",
       "team_id": "team_43",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_137",
       "name": "Uzbekistan Player 5",
       "team_id": "team_43",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_138",
       "name": "Uzbekistan Player 6",
       "team_id": "team_43",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1523,10 +1523,10 @@
       "name": "Uzbekistan Player 7",
       "team_id": "team_43",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1534,10 +1534,10 @@
       "name": "Uzbekistan Player 8",
       "team_id": "team_43",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1545,43 +1545,43 @@
       "name": "Uzbekistan Player 9",
       "team_id": "team_43",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_142",
       "name": "Uzbekistan Player 10",
       "team_id": "team_43",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_143",
       "name": "Uzbekistan Player 11",
       "team_id": "team_43",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_144",
       "name": "Colombia Player 1",
       "team_id": "team_44",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1589,54 +1589,54 @@
       "name": "Colombia Player 2",
       "team_id": "team_44",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_146",
       "name": "Colombia Player 3",
       "team_id": "team_44",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_147",
       "name": "Colombia Player 4",
       "team_id": "team_44",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_148",
       "name": "Colombia Player 5",
       "team_id": "team_44",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_149",
       "name": "Colombia Player 6",
       "team_id": "team_44",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1644,10 +1644,10 @@
       "name": "Colombia Player 7",
       "team_id": "team_44",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1655,10 +1655,10 @@
       "name": "Colombia Player 8",
       "team_id": "team_44",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1666,43 +1666,43 @@
       "name": "Colombia Player 9",
       "team_id": "team_44",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_153",
       "name": "Colombia Player 10",
       "team_id": "team_44",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_154",
       "name": "Colombia Player 11",
       "team_id": "team_44",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_155",
       "name": "Ecuador Player 1",
       "team_id": "team_20",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1710,54 +1710,54 @@
       "name": "Ecuador Player 2",
       "team_id": "team_20",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_157",
       "name": "Ecuador Player 3",
       "team_id": "team_20",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_158",
       "name": "Ecuador Player 4",
       "team_id": "team_20",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_159",
       "name": "Ecuador Player 5",
       "team_id": "team_20",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_160",
       "name": "Ecuador Player 6",
       "team_id": "team_20",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1765,10 +1765,10 @@
       "name": "Ecuador Player 7",
       "team_id": "team_20",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1776,10 +1776,10 @@
       "name": "Ecuador Player 8",
       "team_id": "team_20",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1787,43 +1787,43 @@
       "name": "Ecuador Player 9",
       "team_id": "team_20",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_164",
       "name": "Ecuador Player 10",
       "team_id": "team_20",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_165",
       "name": "Ecuador Player 11",
       "team_id": "team_20",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_166",
       "name": "Japan Player 1",
       "team_id": "team_22",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1831,54 +1831,54 @@
       "name": "Japan Player 2",
       "team_id": "team_22",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_168",
       "name": "Japan Player 3",
       "team_id": "team_22",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_169",
       "name": "Japan Player 4",
       "team_id": "team_22",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_170",
       "name": "Japan Player 5",
       "team_id": "team_22",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_171",
       "name": "Japan Player 6",
       "team_id": "team_22",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1886,10 +1886,10 @@
       "name": "Japan Player 7",
       "team_id": "team_22",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1897,10 +1897,10 @@
       "name": "Japan Player 8",
       "team_id": "team_22",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1908,43 +1908,43 @@
       "name": "Japan Player 9",
       "team_id": "team_22",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_175",
       "name": "Japan Player 10",
       "team_id": "team_22",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_176",
       "name": "Japan Player 11",
       "team_id": "team_22",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_177",
       "name": "New Zealand Player 1",
       "team_id": "team_28",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -1952,54 +1952,54 @@
       "name": "New Zealand Player 2",
       "team_id": "team_28",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_179",
       "name": "New Zealand Player 3",
       "team_id": "team_28",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_180",
       "name": "New Zealand Player 4",
       "team_id": "team_28",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_181",
       "name": "New Zealand Player 5",
       "team_id": "team_28",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_182",
       "name": "New Zealand Player 6",
       "team_id": "team_28",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2007,10 +2007,10 @@
       "name": "New Zealand Player 7",
       "team_id": "team_28",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2018,10 +2018,10 @@
       "name": "New Zealand Player 8",
       "team_id": "team_28",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2029,43 +2029,43 @@
       "name": "New Zealand Player 9",
       "team_id": "team_28",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_186",
       "name": "New Zealand Player 10",
       "team_id": "team_28",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_187",
       "name": "New Zealand Player 11",
       "team_id": "team_28",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_188",
       "name": "Saudi Arabia Player 1",
       "team_id": "team_31",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2073,54 +2073,54 @@
       "name": "Saudi Arabia Player 2",
       "team_id": "team_31",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_190",
       "name": "Saudi Arabia Player 3",
       "team_id": "team_31",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_191",
       "name": "Saudi Arabia Player 4",
       "team_id": "team_31",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_192",
       "name": "Saudi Arabia Player 5",
       "team_id": "team_31",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_193",
       "name": "Saudi Arabia Player 6",
       "team_id": "team_31",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2128,10 +2128,10 @@
       "name": "Saudi Arabia Player 7",
       "team_id": "team_31",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2139,10 +2139,10 @@
       "name": "Saudi Arabia Player 8",
       "team_id": "team_31",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2150,43 +2150,43 @@
       "name": "Saudi Arabia Player 9",
       "team_id": "team_31",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_197",
       "name": "Saudi Arabia Player 10",
       "team_id": "team_31",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_198",
       "name": "Saudi Arabia Player 11",
       "team_id": "team_31",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_199",
       "name": "Austria Player 1",
       "team_id": "team_39",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2194,54 +2194,54 @@
       "name": "Austria Player 2",
       "team_id": "team_39",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_201",
       "name": "Austria Player 3",
       "team_id": "team_39",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_202",
       "name": "Austria Player 4",
       "team_id": "team_39",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_203",
       "name": "Austria Player 5",
       "team_id": "team_39",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_204",
       "name": "Austria Player 6",
       "team_id": "team_39",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2249,10 +2249,10 @@
       "name": "Austria Player 7",
       "team_id": "team_39",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2260,10 +2260,10 @@
       "name": "Austria Player 8",
       "team_id": "team_39",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2271,43 +2271,43 @@
       "name": "Austria Player 9",
       "team_id": "team_39",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_208",
       "name": "Austria Player 10",
       "team_id": "team_39",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_209",
       "name": "Austria Player 11",
       "team_id": "team_39",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_210",
       "name": "Ghana Player 1",
       "team_id": "team_47",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2315,54 +2315,54 @@
       "name": "Ghana Player 2",
       "team_id": "team_47",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_212",
       "name": "Ghana Player 3",
       "team_id": "team_47",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_213",
       "name": "Ghana Player 4",
       "team_id": "team_47",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_214",
       "name": "Ghana Player 5",
       "team_id": "team_47",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_215",
       "name": "Ghana Player 6",
       "team_id": "team_47",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2370,10 +2370,10 @@
       "name": "Ghana Player 7",
       "team_id": "team_47",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2381,10 +2381,10 @@
       "name": "Ghana Player 8",
       "team_id": "team_47",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2392,43 +2392,43 @@
       "name": "Ghana Player 9",
       "team_id": "team_47",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_219",
       "name": "Ghana Player 10",
       "team_id": "team_47",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_220",
       "name": "Ghana Player 11",
       "team_id": "team_47",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_221",
       "name": "South Korea Player 1",
       "team_id": "team_3",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2436,54 +2436,54 @@
       "name": "South Korea Player 2",
       "team_id": "team_3",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_223",
       "name": "South Korea Player 3",
       "team_id": "team_3",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_224",
       "name": "South Korea Player 4",
       "team_id": "team_3",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_225",
       "name": "South Korea Player 5",
       "team_id": "team_3",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_226",
       "name": "South Korea Player 6",
       "team_id": "team_3",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2491,10 +2491,10 @@
       "name": "South Korea Player 7",
       "team_id": "team_3",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2502,10 +2502,10 @@
       "name": "South Korea Player 8",
       "team_id": "team_3",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2513,43 +2513,43 @@
       "name": "South Korea Player 9",
       "team_id": "team_3",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_230",
       "name": "South Korea Player 10",
       "team_id": "team_3",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_231",
       "name": "South Korea Player 11",
       "team_id": "team_3",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_232",
       "name": "Spain Player 1",
       "team_id": "team_29",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2557,54 +2557,54 @@
       "name": "Spain Player 2",
       "team_id": "team_29",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_234",
       "name": "Spain Player 3",
       "team_id": "team_29",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_235",
       "name": "Spain Player 4",
       "team_id": "team_29",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_236",
       "name": "Spain Player 5",
       "team_id": "team_29",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_237",
       "name": "Spain Player 6",
       "team_id": "team_29",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2612,10 +2612,10 @@
       "name": "Spain Player 7",
       "team_id": "team_29",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2623,10 +2623,10 @@
       "name": "Spain Player 8",
       "team_id": "team_29",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2634,43 +2634,43 @@
       "name": "Spain Player 9",
       "team_id": "team_29",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_241",
       "name": "Spain Player 10",
       "team_id": "team_29",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_242",
       "name": "Spain Player 11",
       "team_id": "team_29",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_243",
       "name": "Norway Player 1",
       "team_id": "team_36",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2678,54 +2678,54 @@
       "name": "Norway Player 2",
       "team_id": "team_36",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_245",
       "name": "Norway Player 3",
       "team_id": "team_36",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_246",
       "name": "Norway Player 4",
       "team_id": "team_36",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_247",
       "name": "Norway Player 5",
       "team_id": "team_36",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_248",
       "name": "Norway Player 6",
       "team_id": "team_36",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2733,10 +2733,10 @@
       "name": "Norway Player 7",
       "team_id": "team_36",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2744,10 +2744,10 @@
       "name": "Norway Player 8",
       "team_id": "team_36",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2757,9 +2757,9 @@
       "position": "FWD",
       "goals": 1,
       "assists": 0,
-      "shots_on_target": 3,
-      "shots_on_goal": 2,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_252",
@@ -2768,9 +2768,9 @@
       "position": "FWD",
       "goals": 1,
       "assists": 0,
-      "shots_on_target": 3,
-      "shots_on_goal": 2,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_253",
@@ -2779,19 +2779,19 @@
       "position": "FWD",
       "goals": 1,
       "assists": 0,
-      "shots_on_target": 3,
-      "shots_on_goal": 2,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_254",
       "name": "Argentina Player 1",
       "team_id": "team_37",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2799,54 +2799,54 @@
       "name": "Argentina Player 2",
       "team_id": "team_37",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_256",
       "name": "Argentina Player 3",
       "team_id": "team_37",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_257",
       "name": "Argentina Player 4",
       "team_id": "team_37",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_258",
       "name": "Argentina Player 5",
       "team_id": "team_37",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_259",
       "name": "Argentina Player 6",
       "team_id": "team_37",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2854,10 +2854,10 @@
       "name": "Argentina Player 7",
       "team_id": "team_37",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2865,10 +2865,10 @@
       "name": "Argentina Player 8",
       "team_id": "team_37",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2876,43 +2876,43 @@
       "name": "Argentina Player 9",
       "team_id": "team_37",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_263",
       "name": "Argentina Player 10",
       "team_id": "team_37",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_264",
       "name": "Argentina Player 11",
       "team_id": "team_37",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_265",
       "name": "Democratic Republic of the Congo Player 1",
       "team_id": "team_42",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2920,54 +2920,54 @@
       "name": "Democratic Republic of the Congo Player 2",
       "team_id": "team_42",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_267",
       "name": "Democratic Republic of the Congo Player 3",
       "team_id": "team_42",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_268",
       "name": "Democratic Republic of the Congo Player 4",
       "team_id": "team_42",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_269",
       "name": "Democratic Republic of the Congo Player 5",
       "team_id": "team_42",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_270",
       "name": "Democratic Republic of the Congo Player 6",
       "team_id": "team_42",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2975,10 +2975,10 @@
       "name": "Democratic Republic of the Congo Player 7",
       "team_id": "team_42",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2986,10 +2986,10 @@
       "name": "Democratic Republic of the Congo Player 8",
       "team_id": "team_42",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -2997,43 +2997,43 @@
       "name": "Democratic Republic of the Congo Player 9",
       "team_id": "team_42",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_274",
       "name": "Democratic Republic of the Congo Player 10",
       "team_id": "team_42",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_275",
       "name": "Democratic Republic of the Congo Player 11",
       "team_id": "team_42",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_276",
       "name": "England Player 1",
       "team_id": "team_45",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3041,54 +3041,54 @@
       "name": "England Player 2",
       "team_id": "team_45",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_278",
       "name": "England Player 3",
       "team_id": "team_45",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_279",
       "name": "England Player 4",
       "team_id": "team_45",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_280",
       "name": "England Player 5",
       "team_id": "team_45",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_281",
       "name": "England Player 6",
       "team_id": "team_45",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3096,10 +3096,10 @@
       "name": "England Player 7",
       "team_id": "team_45",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3107,10 +3107,10 @@
       "name": "England Player 8",
       "team_id": "team_45",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3118,43 +3118,43 @@
       "name": "England Player 9",
       "team_id": "team_45",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_285",
       "name": "England Player 10",
       "team_id": "team_45",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_286",
       "name": "England Player 11",
       "team_id": "team_45",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_287",
       "name": "Czech Republic Player 1",
       "team_id": "team_4",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3162,54 +3162,54 @@
       "name": "Czech Republic Player 2",
       "team_id": "team_4",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_289",
       "name": "Czech Republic Player 3",
       "team_id": "team_4",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_290",
       "name": "Czech Republic Player 4",
       "team_id": "team_4",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_291",
       "name": "Czech Republic Player 5",
       "team_id": "team_4",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_292",
       "name": "Czech Republic Player 6",
       "team_id": "team_4",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3217,10 +3217,10 @@
       "name": "Czech Republic Player 7",
       "team_id": "team_4",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3228,10 +3228,10 @@
       "name": "Czech Republic Player 8",
       "team_id": "team_4",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3239,43 +3239,43 @@
       "name": "Czech Republic Player 9",
       "team_id": "team_4",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_296",
       "name": "Czech Republic Player 10",
       "team_id": "team_4",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_297",
       "name": "Czech Republic Player 11",
       "team_id": "team_4",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_298",
       "name": "Canada Player 1",
       "team_id": "team_5",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3283,54 +3283,54 @@
       "name": "Canada Player 2",
       "team_id": "team_5",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_300",
       "name": "Canada Player 3",
       "team_id": "team_5",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_301",
       "name": "Canada Player 4",
       "team_id": "team_5",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_302",
       "name": "Canada Player 5",
       "team_id": "team_5",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_303",
       "name": "Canada Player 6",
       "team_id": "team_5",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3338,10 +3338,10 @@
       "name": "Canada Player 7",
       "team_id": "team_5",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3349,10 +3349,10 @@
       "name": "Canada Player 8",
       "team_id": "team_5",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3360,43 +3360,43 @@
       "name": "Canada Player 9",
       "team_id": "team_5",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_307",
       "name": "Canada Player 10",
       "team_id": "team_5",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_308",
       "name": "Canada Player 11",
       "team_id": "team_5",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_309",
       "name": "Qatar Player 1",
       "team_id": "team_7",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3404,54 +3404,54 @@
       "name": "Qatar Player 2",
       "team_id": "team_7",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_311",
       "name": "Qatar Player 3",
       "team_id": "team_7",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_312",
       "name": "Qatar Player 4",
       "team_id": "team_7",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_313",
       "name": "Qatar Player 5",
       "team_id": "team_7",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_314",
       "name": "Qatar Player 6",
       "team_id": "team_7",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3459,10 +3459,10 @@
       "name": "Qatar Player 7",
       "team_id": "team_7",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3470,10 +3470,10 @@
       "name": "Qatar Player 8",
       "team_id": "team_7",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3481,43 +3481,43 @@
       "name": "Qatar Player 9",
       "team_id": "team_7",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_318",
       "name": "Qatar Player 10",
       "team_id": "team_7",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_319",
       "name": "Qatar Player 11",
       "team_id": "team_7",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_320",
       "name": "Switzerland Player 1",
       "team_id": "team_8",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3525,54 +3525,54 @@
       "name": "Switzerland Player 2",
       "team_id": "team_8",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_322",
       "name": "Switzerland Player 3",
       "team_id": "team_8",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_323",
       "name": "Switzerland Player 4",
       "team_id": "team_8",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_324",
       "name": "Switzerland Player 5",
       "team_id": "team_8",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_325",
       "name": "Switzerland Player 6",
       "team_id": "team_8",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3580,10 +3580,10 @@
       "name": "Switzerland Player 7",
       "team_id": "team_8",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3591,10 +3591,10 @@
       "name": "Switzerland Player 8",
       "team_id": "team_8",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3602,43 +3602,43 @@
       "name": "Switzerland Player 9",
       "team_id": "team_8",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_329",
       "name": "Switzerland Player 10",
       "team_id": "team_8",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_330",
       "name": "Switzerland Player 11",
       "team_id": "team_8",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_331",
       "name": "Morocco Player 1",
       "team_id": "team_10",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3646,54 +3646,54 @@
       "name": "Morocco Player 2",
       "team_id": "team_10",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_333",
       "name": "Morocco Player 3",
       "team_id": "team_10",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_334",
       "name": "Morocco Player 4",
       "team_id": "team_10",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_335",
       "name": "Morocco Player 5",
       "team_id": "team_10",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_336",
       "name": "Morocco Player 6",
       "team_id": "team_10",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3701,10 +3701,10 @@
       "name": "Morocco Player 7",
       "team_id": "team_10",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3712,10 +3712,10 @@
       "name": "Morocco Player 8",
       "team_id": "team_10",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3723,43 +3723,43 @@
       "name": "Morocco Player 9",
       "team_id": "team_10",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_340",
       "name": "Morocco Player 10",
       "team_id": "team_10",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_341",
       "name": "Morocco Player 11",
       "team_id": "team_10",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_342",
       "name": "Paraguay Player 1",
       "team_id": "team_14",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3767,54 +3767,54 @@
       "name": "Paraguay Player 2",
       "team_id": "team_14",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_344",
       "name": "Paraguay Player 3",
       "team_id": "team_14",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_345",
       "name": "Paraguay Player 4",
       "team_id": "team_14",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_346",
       "name": "Paraguay Player 5",
       "team_id": "team_14",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_347",
       "name": "Paraguay Player 6",
       "team_id": "team_14",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3822,10 +3822,10 @@
       "name": "Paraguay Player 7",
       "team_id": "team_14",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3833,10 +3833,10 @@
       "name": "Paraguay Player 8",
       "team_id": "team_14",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3844,43 +3844,43 @@
       "name": "Paraguay Player 9",
       "team_id": "team_14",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_351",
       "name": "Paraguay Player 10",
       "team_id": "team_14",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_352",
       "name": "Paraguay Player 11",
       "team_id": "team_14",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_353",
       "name": "Cura\u00e7ao Player 1",
       "team_id": "team_18",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3888,54 +3888,54 @@
       "name": "Cura\u00e7ao Player 2",
       "team_id": "team_18",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_355",
       "name": "Cura\u00e7ao Player 3",
       "team_id": "team_18",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_356",
       "name": "Cura\u00e7ao Player 4",
       "team_id": "team_18",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_357",
       "name": "Cura\u00e7ao Player 5",
       "team_id": "team_18",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_358",
       "name": "Cura\u00e7ao Player 6",
       "team_id": "team_18",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3943,10 +3943,10 @@
       "name": "Cura\u00e7ao Player 7",
       "team_id": "team_18",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3954,10 +3954,10 @@
       "name": "Cura\u00e7ao Player 8",
       "team_id": "team_18",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -3965,43 +3965,43 @@
       "name": "Cura\u00e7ao Player 9",
       "team_id": "team_18",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_362",
       "name": "Cura\u00e7ao Player 10",
       "team_id": "team_18",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_363",
       "name": "Cura\u00e7ao Player 11",
       "team_id": "team_18",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_364",
       "name": "Sweden Player 1",
       "team_id": "team_23",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4009,54 +4009,54 @@
       "name": "Sweden Player 2",
       "team_id": "team_23",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_366",
       "name": "Sweden Player 3",
       "team_id": "team_23",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_367",
       "name": "Sweden Player 4",
       "team_id": "team_23",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_368",
       "name": "Sweden Player 5",
       "team_id": "team_23",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_369",
       "name": "Sweden Player 6",
       "team_id": "team_23",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4064,10 +4064,10 @@
       "name": "Sweden Player 7",
       "team_id": "team_23",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4075,10 +4075,10 @@
       "name": "Sweden Player 8",
       "team_id": "team_23",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4086,43 +4086,43 @@
       "name": "Sweden Player 9",
       "team_id": "team_23",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_373",
       "name": "Sweden Player 10",
       "team_id": "team_23",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_374",
       "name": "Sweden Player 11",
       "team_id": "team_23",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_375",
       "name": "Algeria Player 1",
       "team_id": "team_38",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4130,54 +4130,54 @@
       "name": "Algeria Player 2",
       "team_id": "team_38",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_377",
       "name": "Algeria Player 3",
       "team_id": "team_38",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_378",
       "name": "Algeria Player 4",
       "team_id": "team_38",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_379",
       "name": "Algeria Player 5",
       "team_id": "team_38",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_380",
       "name": "Algeria Player 6",
       "team_id": "team_38",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4185,10 +4185,10 @@
       "name": "Algeria Player 7",
       "team_id": "team_38",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4196,10 +4196,10 @@
       "name": "Algeria Player 8",
       "team_id": "team_38",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4207,43 +4207,43 @@
       "name": "Algeria Player 9",
       "team_id": "team_38",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_384",
       "name": "Algeria Player 10",
       "team_id": "team_38",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_385",
       "name": "Algeria Player 11",
       "team_id": "team_38",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_386",
       "name": "Jordan Player 1",
       "team_id": "team_40",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4251,54 +4251,54 @@
       "name": "Jordan Player 2",
       "team_id": "team_40",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_388",
       "name": "Jordan Player 3",
       "team_id": "team_40",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_389",
       "name": "Jordan Player 4",
       "team_id": "team_40",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_390",
       "name": "Jordan Player 5",
       "team_id": "team_40",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_391",
       "name": "Jordan Player 6",
       "team_id": "team_40",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4306,10 +4306,10 @@
       "name": "Jordan Player 7",
       "team_id": "team_40",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4317,10 +4317,10 @@
       "name": "Jordan Player 8",
       "team_id": "team_40",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4328,43 +4328,43 @@
       "name": "Jordan Player 9",
       "team_id": "team_40",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_395",
       "name": "Jordan Player 10",
       "team_id": "team_40",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_396",
       "name": "Jordan Player 11",
       "team_id": "team_40",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_397",
       "name": "Haiti Player 1",
       "team_id": "team_11",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4372,54 +4372,54 @@
       "name": "Haiti Player 2",
       "team_id": "team_11",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_399",
       "name": "Haiti Player 3",
       "team_id": "team_11",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_400",
       "name": "Haiti Player 4",
       "team_id": "team_11",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_401",
       "name": "Haiti Player 5",
       "team_id": "team_11",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_402",
       "name": "Haiti Player 6",
       "team_id": "team_11",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4427,10 +4427,10 @@
       "name": "Haiti Player 7",
       "team_id": "team_11",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4438,10 +4438,10 @@
       "name": "Haiti Player 8",
       "team_id": "team_11",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4449,43 +4449,43 @@
       "name": "Haiti Player 9",
       "team_id": "team_11",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_406",
       "name": "Haiti Player 10",
       "team_id": "team_11",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_407",
       "name": "Haiti Player 11",
       "team_id": "team_11",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_408",
       "name": "Germany Player 1",
       "team_id": "team_17",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4493,54 +4493,54 @@
       "name": "Germany Player 2",
       "team_id": "team_17",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_410",
       "name": "Germany Player 3",
       "team_id": "team_17",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_411",
       "name": "Germany Player 4",
       "team_id": "team_17",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_412",
       "name": "Germany Player 5",
       "team_id": "team_17",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_413",
       "name": "Germany Player 6",
       "team_id": "team_17",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4548,10 +4548,10 @@
       "name": "Germany Player 7",
       "team_id": "team_17",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4559,10 +4559,10 @@
       "name": "Germany Player 8",
       "team_id": "team_17",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4572,9 +4572,9 @@
       "position": "FWD",
       "goals": 1,
       "assists": 0,
-      "shots_on_target": 3,
-      "shots_on_goal": 2,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_417",
@@ -4583,9 +4583,9 @@
       "position": "FWD",
       "goals": 1,
       "assists": 0,
-      "shots_on_target": 3,
-      "shots_on_goal": 2,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_418",
@@ -4594,19 +4594,19 @@
       "position": "FWD",
       "goals": 1,
       "assists": 0,
-      "shots_on_target": 3,
-      "shots_on_goal": 2,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_419",
       "name": "Uruguay Player 1",
       "team_id": "team_32",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4614,54 +4614,54 @@
       "name": "Uruguay Player 2",
       "team_id": "team_32",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_421",
       "name": "Uruguay Player 3",
       "team_id": "team_32",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_422",
       "name": "Uruguay Player 4",
       "team_id": "team_32",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_423",
       "name": "Uruguay Player 5",
       "team_id": "team_32",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_424",
       "name": "Uruguay Player 6",
       "team_id": "team_32",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4669,10 +4669,10 @@
       "name": "Uruguay Player 7",
       "team_id": "team_32",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4680,10 +4680,10 @@
       "name": "Uruguay Player 8",
       "team_id": "team_32",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4691,43 +4691,43 @@
       "name": "Uruguay Player 9",
       "team_id": "team_32",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_428",
       "name": "Uruguay Player 10",
       "team_id": "team_32",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_429",
       "name": "Uruguay Player 11",
       "team_id": "team_32",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_430",
       "name": "Senegal Player 1",
       "team_id": "team_34",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4735,54 +4735,54 @@
       "name": "Senegal Player 2",
       "team_id": "team_34",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_432",
       "name": "Senegal Player 3",
       "team_id": "team_34",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_433",
       "name": "Senegal Player 4",
       "team_id": "team_34",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_434",
       "name": "Senegal Player 5",
       "team_id": "team_34",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_435",
       "name": "Senegal Player 6",
       "team_id": "team_34",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4790,10 +4790,10 @@
       "name": "Senegal Player 7",
       "team_id": "team_34",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4801,10 +4801,10 @@
       "name": "Senegal Player 8",
       "team_id": "team_34",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4814,9 +4814,9 @@
       "position": "FWD",
       "goals": 1,
       "assists": 0,
-      "shots_on_target": 3,
-      "shots_on_goal": 2,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_439",
@@ -4825,9 +4825,9 @@
       "position": "FWD",
       "goals": 1,
       "assists": 0,
-      "shots_on_target": 3,
-      "shots_on_goal": 2,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_440",
@@ -4836,19 +4836,19 @@
       "position": "FWD",
       "goals": 1,
       "assists": 0,
-      "shots_on_target": 3,
-      "shots_on_goal": 2,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_441",
       "name": "Panama Player 1",
       "team_id": "team_48",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4856,54 +4856,54 @@
       "name": "Panama Player 2",
       "team_id": "team_48",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_443",
       "name": "Panama Player 3",
       "team_id": "team_48",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_444",
       "name": "Panama Player 4",
       "team_id": "team_48",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_445",
       "name": "Panama Player 5",
       "team_id": "team_48",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_446",
       "name": "Panama Player 6",
       "team_id": "team_48",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4911,10 +4911,10 @@
       "name": "Panama Player 7",
       "team_id": "team_48",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4922,10 +4922,10 @@
       "name": "Panama Player 8",
       "team_id": "team_48",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4933,43 +4933,43 @@
       "name": "Panama Player 9",
       "team_id": "team_48",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_450",
       "name": "Panama Player 10",
       "team_id": "team_48",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_451",
       "name": "Panama Player 11",
       "team_id": "team_48",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_452",
       "name": "Mexico Player 1",
       "team_id": "team_1",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -4977,54 +4977,54 @@
       "name": "Mexico Player 2",
       "team_id": "team_1",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_454",
       "name": "Mexico Player 3",
       "team_id": "team_1",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_455",
       "name": "Mexico Player 4",
       "team_id": "team_1",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_456",
       "name": "Mexico Player 5",
       "team_id": "team_1",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_457",
       "name": "Mexico Player 6",
       "team_id": "team_1",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -5032,10 +5032,10 @@
       "name": "Mexico Player 7",
       "team_id": "team_1",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -5043,10 +5043,10 @@
       "name": "Mexico Player 8",
       "team_id": "team_1",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -5054,43 +5054,43 @@
       "name": "Mexico Player 9",
       "team_id": "team_1",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_461",
       "name": "Mexico Player 10",
       "team_id": "team_1",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_462",
       "name": "Mexico Player 11",
       "team_id": "team_1",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_463",
       "name": "Bosnia and Herzegovina Player 1",
       "team_id": "team_6",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -5098,54 +5098,54 @@
       "name": "Bosnia and Herzegovina Player 2",
       "team_id": "team_6",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_465",
       "name": "Bosnia and Herzegovina Player 3",
       "team_id": "team_6",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_466",
       "name": "Bosnia and Herzegovina Player 4",
       "team_id": "team_6",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_467",
       "name": "Bosnia and Herzegovina Player 5",
       "team_id": "team_6",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_468",
       "name": "Bosnia and Herzegovina Player 6",
       "team_id": "team_6",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -5153,10 +5153,10 @@
       "name": "Bosnia and Herzegovina Player 7",
       "team_id": "team_6",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -5164,10 +5164,10 @@
       "name": "Bosnia and Herzegovina Player 8",
       "team_id": "team_6",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -5175,43 +5175,43 @@
       "name": "Bosnia and Herzegovina Player 9",
       "team_id": "team_6",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_472",
       "name": "Bosnia and Herzegovina Player 10",
       "team_id": "team_6",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_473",
       "name": "Bosnia and Herzegovina Player 11",
       "team_id": "team_6",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_474",
       "name": "United States Player 1",
       "team_id": "team_13",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -5219,54 +5219,54 @@
       "name": "United States Player 2",
       "team_id": "team_13",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_476",
       "name": "United States Player 3",
       "team_id": "team_13",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_477",
       "name": "United States Player 4",
       "team_id": "team_13",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_478",
       "name": "United States Player 5",
       "team_id": "team_13",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_479",
       "name": "United States Player 6",
       "team_id": "team_13",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -5274,10 +5274,10 @@
       "name": "United States Player 7",
       "team_id": "team_13",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -5285,10 +5285,10 @@
       "name": "United States Player 8",
       "team_id": "team_13",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -5298,9 +5298,9 @@
       "position": "FWD",
       "goals": 1,
       "assists": 0,
-      "shots_on_target": 3,
-      "shots_on_goal": 2,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_483",
@@ -5309,9 +5309,9 @@
       "position": "FWD",
       "goals": 1,
       "assists": 0,
-      "shots_on_target": 3,
-      "shots_on_goal": 2,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_484",
@@ -5320,19 +5320,19 @@
       "position": "FWD",
       "goals": 1,
       "assists": 0,
-      "shots_on_target": 3,
-      "shots_on_goal": 2,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_485",
       "name": "Australia Player 1",
       "team_id": "team_15",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -5340,54 +5340,54 @@
       "name": "Australia Player 2",
       "team_id": "team_15",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_487",
       "name": "Australia Player 3",
       "team_id": "team_15",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_488",
       "name": "Australia Player 4",
       "team_id": "team_15",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_489",
       "name": "Australia Player 5",
       "team_id": "team_15",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_490",
       "name": "Australia Player 6",
       "team_id": "team_15",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -5395,10 +5395,10 @@
       "name": "Australia Player 7",
       "team_id": "team_15",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -5406,10 +5406,10 @@
       "name": "Australia Player 8",
       "team_id": "team_15",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -5417,43 +5417,43 @@
       "name": "Australia Player 9",
       "team_id": "team_15",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_494",
       "name": "Australia Player 10",
       "team_id": "team_15",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_495",
       "name": "Australia Player 11",
       "team_id": "team_15",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_496",
       "name": "Belgium Player 1",
       "team_id": "team_25",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -5461,54 +5461,54 @@
       "name": "Belgium Player 2",
       "team_id": "team_25",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_498",
       "name": "Belgium Player 3",
       "team_id": "team_25",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_499",
       "name": "Belgium Player 4",
       "team_id": "team_25",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_500",
       "name": "Belgium Player 5",
       "team_id": "team_25",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_501",
       "name": "Belgium Player 6",
       "team_id": "team_25",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -5516,10 +5516,10 @@
       "name": "Belgium Player 7",
       "team_id": "team_25",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -5527,10 +5527,10 @@
       "name": "Belgium Player 8",
       "team_id": "team_25",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -5538,43 +5538,43 @@
       "name": "Belgium Player 9",
       "team_id": "team_25",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_505",
       "name": "Belgium Player 10",
       "team_id": "team_25",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_506",
       "name": "Belgium Player 11",
       "team_id": "team_25",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_507",
       "name": "Iran Player 1",
       "team_id": "team_27",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -5582,54 +5582,54 @@
       "name": "Iran Player 2",
       "team_id": "team_27",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_509",
       "name": "Iran Player 3",
       "team_id": "team_27",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_510",
       "name": "Iran Player 4",
       "team_id": "team_27",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_511",
       "name": "Iran Player 5",
       "team_id": "team_27",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_512",
       "name": "Iran Player 6",
       "team_id": "team_27",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -5637,10 +5637,10 @@
       "name": "Iran Player 7",
       "team_id": "team_27",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -5648,10 +5648,10 @@
       "name": "Iran Player 8",
       "team_id": "team_27",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -5659,43 +5659,43 @@
       "name": "Iran Player 9",
       "team_id": "team_27",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_516",
       "name": "Iran Player 10",
       "team_id": "team_27",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_517",
       "name": "Iran Player 11",
       "team_id": "team_27",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_518",
       "name": "Croatia Player 1",
       "team_id": "team_46",
       "position": "GK",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -5703,54 +5703,54 @@
       "name": "Croatia Player 2",
       "team_id": "team_46",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_520",
       "name": "Croatia Player 3",
       "team_id": "team_46",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_521",
       "name": "Croatia Player 4",
       "team_id": "team_46",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_522",
       "name": "Croatia Player 5",
       "team_id": "team_46",
       "position": "DEF",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_523",
       "name": "Croatia Player 6",
       "team_id": "team_46",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -5758,10 +5758,10 @@
       "name": "Croatia Player 7",
       "team_id": "team_46",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -5769,10 +5769,10 @@
       "name": "Croatia Player 8",
       "team_id": "team_46",
       "position": "MID",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
       "headed_attempts_on_goal": 0
     },
     {
@@ -5780,33 +5780,33 @@
       "name": "Croatia Player 9",
       "team_id": "team_46",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_527",
       "name": "Croatia Player 10",
       "team_id": "team_46",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     },
     {
       "id": "player_528",
       "name": "Croatia Player 11",
       "team_id": "team_46",
       "position": "FWD",
-      "goals": 0,
+      "goals": 1,
       "assists": 0,
-      "shots_on_target": 0,
-      "shots_on_goal": 0,
-      "headed_attempts_on_goal": 0
+      "shots_on_target": 2,
+      "shots_on_goal": 1,
+      "headed_attempts_on_goal": 1
     }
   ]
 }
