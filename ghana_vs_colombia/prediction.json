@@ -1,0 +1,19 @@
+{
+  "team_a": {
+    "name": "Ghana",
+    "country": "Ghana",
+    "squad_score": 0.81,
+    "league_strength": 5.67,
+    "composite_score": 2.75,
+    "win_probability": 36.3
+  },
+  "team_b": {
+    "name": "Colombia",
+    "country": "Colombia",
+    "squad_score": 0.81,
+    "league_strength": 10.83,
+    "composite_score": 4.82,
+    "win_probability": 63.7
+  },
+  "favorite": "Colombia"
+}

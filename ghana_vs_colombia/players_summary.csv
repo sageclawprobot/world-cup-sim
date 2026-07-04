@@ -1,0 +1,23 @@
+PlayerName,TeamName,Position,Goals,Assists,ShotsOnTarget,ShotsOnGoal,HeadedAttempts,ContributionScore
+Ghana Player 1,Ghana,GK,1,0,2,1,0,0.8
+Ghana Player 2,Ghana,DEF,1,0,2,1,1,0.81
+Ghana Player 3,Ghana,DEF,1,0,2,1,1,0.81
+Ghana Player 4,Ghana,DEF,1,0,2,1,1,0.81
+Ghana Player 5,Ghana,DEF,1,0,2,1,1,0.81
+Ghana Player 6,Ghana,MID,1,0,2,1,0,0.8
+Ghana Player 7,Ghana,MID,1,0,2,1,0,0.8
+Ghana Player 8,Ghana,MID,1,0,2,1,0,0.8
+Ghana Player 9,Ghana,FWD,1,0,2,1,1,0.81
+Ghana Player 10,Ghana,FWD,1,0,2,1,1,0.81
+Ghana Player 11,Ghana,FWD,1,0,2,1,1,0.81
+Colombia Player 1,Colombia,GK,1,0,2,1,0,0.8
+Colombia Player 2,Colombia,DEF,1,0,2,1,1,0.81
+Colombia Player 3,Colombia,DEF,1,0,2,1,1,0.81
+Colombia Player 4,Colombia,DEF,1,0,2,1,1,0.81
+Colombia Player 5,Colombia,DEF,1,0,2,1,1,0.81
+Colombia Player 6,Colombia,MID,1,0,2,1,0,0.8
+Colombia Player 7,Colombia,MID,1,0,2,1,0,0.8
+Colombia Player 8,Colombia,MID,1,0,2,1,0,0.8
+Colombia Player 9,Colombia,FWD,1,0,2,1,1,0.81
+Colombia Player 10,Colombia,FWD,1,0,2,1,1,0.81
+Colombia Player 11,Colombia,FWD,1,0,2,1,1,0.81
